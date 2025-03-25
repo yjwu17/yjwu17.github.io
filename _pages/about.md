@@ -14,8 +14,9 @@ Dr. Yujie Wu is currently a Research Assistant Professor at The Hong Kong Polyte
 His previous works have been published in prestigious journals and top AI conferences, including **Nature** (Cover paper), **Science Robotics** (Cover paper), **Nature Computational Science** (Cover runner-up), **Nature Communications** (Featured articles), and **AAAI** (Spotlight), with more than 5,500 Google Scholar citations. Three of his publications have been selected as ESI Top 1% Highly Cited Papers. Four of his works have successfully been converted into patents. The Tianjic chip project in which he participated was recognized as one of the Top 10 Sci-tech Achievements in China in 2019.
 
 
-**Opening** 
-I am looking for highly self-motivated PhD students, PostDocs, and research assistants. If you are interested, please send me your CV. Thanks! (All CVs are carefully evaluated. Only matched candidates will be responded.)
+### **Opening** 
+<span style="color:red;">
+I am looking for highly self-motivated PhD students, PostDocs, and research assistants. If you are interested, please send me your CV. Thanks! (<u>All CVs are carefully evaluated. Only matched candidates will be responded<\u>.) </span>
 
  **Research interests** 
  * Brain-inspired AI algorithms 
