@@ -25,13 +25,13 @@ I am looking for highly self-motivated PhD students, PostDocs, and research assi
  * Brain-inspired AI algorithms 
  * Neuromorphic computing and spiking neural networks
  * Computational models for memory and synaptic plasticity
- * Bioinspired robots
+ * Bioinspired robot applications
 
 ### **Selected Ten Publications** <span style="font-size: small;">(updated as of December 2024)</span>
 
-1. **Y. Wu**, W. Maass. "A simple model for Behavioral Time Scale Synaptic Plasticity (BTSP) provides content addressable memory with binary synapses and one-shot learning." **Nature Communications**, 2025.
+1. **Y. Wu**, W. Maass. "A simple model for Behavioral Time Scale Synaptic Plasticity (BTSP) provides content addressable memory with binary synapses and one-shot learning." **Nature Communications**, 2025. (Featured paper)
 
-2. **Y. Wu**, L. Deng, et al. "Adaptive spatiotemporal neural networks through complementary hybridization." **Nature Communications**, 2024, 15(1): 7355. (Featured papers)
+2. **Y. Wu**, L. Deng, et al. "Adaptive spatiotemporal neural networks through complementary hybridization." **Nature Communications**, 2024, 15(1): 7355. (Featured paper)
 
 3. F. Yu# **Y. Wu#** (#Equal Contribution), M. Song#, et al. "Brain-inspired multimodal hybrid neural network for robot place recognition", **Science Robotics**, May 2023. (Cover paper)
 
