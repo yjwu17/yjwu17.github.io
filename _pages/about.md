@@ -12,8 +12,10 @@ redirect_from:
 <div style="text-align: justify;">
 Dr. Yujie Wu is currently a Research Assistant Professor at The Hong Kong Polytechnic University (PolyU). Prior to joining PolyU, he was a postdoctoral researcher collaborating with Prof. Wolfgang Maass, the father of spiking neural networks, at the Institute of Theoretical Computer Science, Graz University of Technology (October 2021 to January 2024). He received his Ph.D. from Tsinghua University under the supervision of Prof. Luping Shi and Prof. Jun Zhu (2016-2021).
 </div>
-His previous works have been published in prestigious journals and top AI conferences, including **Nature** (Cover paper), **Science Robotics** (Cover paper), **Nature Computational Science** (Cover runner-up), **Nature Communications** (Featured articles), and **AAAI** (Spotlight), with more than 5,500 Google Scholar citations. Three of his publications have been selected as ESI Top 1% Highly Cited Papers. Four of his works have successfully been converted into patents. The Tianjic chip project in which he participated was recognized as one of the Top 10 Sci-tech Achievements in China in 2019.
 
+<div style="text-align: justify;">
+His previous works have been published in prestigious journals and top AI conferences, including **Nature** (Cover paper), **Science Robotics** (Cover paper), **Nature Computational Science** (Cover runner-up), **Nature Communications** (Featured articles), and **AAAI** (Spotlight), with more than 5,500 Google Scholar citations. Three of his publications have been selected as ESI Top 1% Highly Cited Papers. Four of his works have successfully been converted into patents. The Tianjic chip project in which he participated was recognized as one of the Top 10 Sci-tech Achievements in China in 2019.
+</div>
 
 ### **Opening** 
 <span style="color:red;">
