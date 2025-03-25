@@ -21,13 +21,13 @@ His previous works have been published in prestigious journals and top AI confer
 <span style="color:red;">
 I am looking for highly self-motivated PhD students, PostDocs, and research assistants. If you are interested, please send me your CV. Thanks! (<u>All CVs are carefully evaluated. Only matched candidates will be responded<\u>.) </span>
 
- **Research interests** 
+###  **Research interests** 
  * Brain-inspired AI algorithms 
  * Neuromorphic computing and spiking neural networks
  * Computational models for memory and synaptic plasticity
  * Bioinspired robots
 
-**Selected Ten Publications** <span style="font-size: small;">(updated as of December 2024)</span>
+### **Selected Ten Publications** <span style="font-size: small;">(updated as of December 2024)</span>
 
 1. **Y. Wu**, W. Maass. "A simple model for Behavioral Time Scale Synaptic Plasticity (BTSP) provides content addressable memory with binary synapses and one-shot learning." **Nature Communications**, 2025.
 
@@ -59,7 +59,7 @@ I am looking for highly self-motivated PhD students, PostDocs, and research assi
 * Technical Program Committee Member for IEEE GlobCon series  
 
 
-### **Selected Talks**
+### **Selected Talks** <span style="font-size: small;">(updated as of December 2024)</span>
 - December 2024, Hangzhou, China. Plasticity Models for Hippocampal One-shot online learning, China Brain-Machine Intelligence Conference
 - November 2024, Yunnan, China. Brain-Inspired Hybrid Intelligence, International Youth Forum on Brain and Intelligence
 - October 2024, Xiamen, China. Brain-Inspired Hybrid Intelligence, Nanqiang Forum, Xiamen University
