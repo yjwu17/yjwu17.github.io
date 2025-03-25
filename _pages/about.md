@@ -13,7 +13,7 @@ redirect_from:
 
 Dr. Yujie Wu is an Assistant Professor at The Hong Kong Polytechnic University (PolyU). Before that, he was a postdoctoral researcher collaborating with Prof. Wolfgang Maass, the father of spiking neural networks, at the Institute of Theoretical Computer Science, Graz University of Technology (2021-2024). He received his Ph.D. from Tsinghua University under the supervision of Prof. Luping Shi and Prof. Jun Zhu (2016-2021).
 
-His previous works have been published in prestigious journals and top AI conferences, including *Nature*, *Science Robotics*, *Nature Computational Science*, *Nature Communications*, *TNNLs* and *AAAI*, with more than 5,500 Google Scholar citations. Three of his publications have been selected as ESI Top 1% Highly Cited Papers. Four of his works have successfully been converted into patents. The Tianjic chip project, in which he participated, was recognized as one of the Top 10 Sci-tech Achievements in China in 2019.
+His previous works have been published in prestigious journals and top AI conferences, including <span style="color:blue;">Nature, Science Robotics, Nature Computational Science, Nature Communications, TNNLs and AAAI</span>, with more than 5,500 Google Scholar citations. Three of his publications have been selected as ESI Top 1% Highly Cited Papers. The Tianjic chip project, in which he participated, was recognized as one of the Top 10 Sci-tech Achievements in China in 2019.
 
 </div>
 
@@ -23,10 +23,10 @@ His previous works have been published in prestigious journals and top AI confer
 I am looking for highly self-motivated PhD students, PostDocs, and Research Assistants. If you are interested, please send me your CV. Thanks! (<u>All CVs are carefully evaluated. Only matched candidates will be responded within one week</u>.) </span>
 
 ###  **Research Interests** 
- * Brain-inspired AI algorithms 
- * Neuromorphic computing and spiking neural networks
- * Computational models for memory and synaptic plasticity
- * Bioinspired robot applications
+ * Brain-inspired learning algorithms and foundation models; 
+ * Neuromorphic computing and spiking neural networks;
+ * Computational neuroscience models for memory and synaptic plasticity;
+ * Bioinspired robot applications;
 
 ### **Selected Ten Publications** <span style="font-size: small;">(updated as of December 2024)</span>
 
@@ -60,7 +60,7 @@ I am looking for highly self-motivated PhD students, PostDocs, and Research Assi
 * Technical Program Committee Member for IEEE GlobCon series  
 
 
-### **Selected Talks** <span style="font-size: small;">(updated as of December 2024)</span>
+### **Selected Talks** 
 - December 2024, Hangzhou, China. Plasticity Models for Hippocampal One-shot online learning, China Brain-Machine Intelligence Conference
 - November 2024, Yunnan, China. Brain-Inspired Hybrid Intelligence, International Youth Forum on Brain and Intelligence
 - October 2024, Xiamen, China. Brain-Inspired Hybrid Intelligence, Nanqiang Forum, Xiamen University
