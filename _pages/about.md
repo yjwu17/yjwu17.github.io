@@ -11,14 +11,9 @@ redirect_from:
 ### **Short Bio**
 <div style="text-align: justify;">
 
-Dr. Yujie Wu is currently a Research Assistant Professor at The Hong Kong Polytechnic University (PolyU). Before that, he was a postdoctoral researcher collaborating with Prof. Wolfgang Maass, the father of spiking neural networks, at the Institute of Theoretical Computer Science, Graz University of Technology (2021-2024). He received his Ph.D. from Tsinghua University under the supervision of Prof. Luping Shi and Prof. Jun Zhu (2016-2021).
+Dr. Yujie Wu is an Assistant Professor at The Hong Kong Polytechnic University (PolyU). Before that, he was a postdoctoral researcher collaborating with Prof. Wolfgang Maass, the father of spiking neural networks, at the Institute of Theoretical Computer Science, Graz University of Technology (2021-2024). He received his Ph.D. from Tsinghua University under the supervision of Prof. Luping Shi and Prof. Jun Zhu (2016-2021).
 
-</div>
-
-
-<div style="text-align: justify;">
-
-His previous works have been published in prestigious journals and top AI conferences, including Nature (Cover paper), Science Robotics(Cover paper), Nature Computational Science, Nature Communications, and AAAI, with more than 5,500 Google Scholar citations. Three of his publications have been selected as ESI Top 1% Highly Cited Papers. Four of his works have successfully been converted into patents. The Tianjic chip project, in which he participated, was recognized as one of the Top 10 Sci-tech Achievements in China in 2019.
+His previous works have been published in prestigious journals and top AI conferences, including *Nature*, *Science Robotics*, *Nature Computational Science*, *Nature Communications*, *TNNLs* and *AAAI*, with more than 5,500 Google Scholar citations. Three of his publications have been selected as ESI Top 1% Highly Cited Papers. Four of his works have successfully been converted into patents. The Tianjic chip project, in which he participated, was recognized as one of the Top 10 Sci-tech Achievements in China in 2019.
 
 </div>
 
