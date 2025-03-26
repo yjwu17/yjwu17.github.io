@@ -23,8 +23,9 @@ His recent works have been published in prestigious journals and top AI conferen
 I am looking for highly self-motivated PhD students, PostDocs, and Research Assistants. If you are interested, please send me your CV. Thanks! (<u>All CVs are carefully evaluated. Only matched candidates will be responded within one week</u>.) </span>
 
 ###  **Research Interests** 
+<div style="text-align: justify;">
 I aim to uncover the computational principles of the brain and bridge the gap between neuroscience and AI to develop Brain-inspired General Intelligence (BGI). My recent research interests include:  
-
+</div>
  * Brain-inspired learning algorithms and foundation models; 
  * Neuromorphic computing and spiking neural networks;
  * Computational neuroscience models for memory and synaptic plasticity;
