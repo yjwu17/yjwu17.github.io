@@ -11,9 +11,9 @@ redirect_from:
 ### **Short Bio**
 <div style="text-align: justify;">
 
-Dr. Yujie Wu is an Assistant Professor at The Hong Kong Polytechnic University (PolyU). Before that, he was a postdoctoral researcher collaborating with Prof. Wolfgang Maass, the father of spiking neural networks, at the Institute of Theoretical Computer Science, Graz University of Technology (2021-2024). He received his Ph.D. from Tsinghua University under the supervision of Prof. Luping Shi and Prof. Jun Zhu (2016-2021).
+Dr. Yujie Wu is an Assistant Professor at The Hong Kong Polytechnic University (PolyU). Prior to this, he was a postdoctoral researcher collaborating with Prof. Wolfgang Maass, a pioneer in brain-inspired computing, at Graz University of Technology (2021–2024). He received his Ph.D. from Tsinghua University under the supervision of Prof. Luping Shi and Prof. Jun Zhu (2016-2021).
 
-His previous works have been published in prestigious journals and top AI conferences, including <span style="color:blue;">Nature, Science Robotics, Nature Computational Science, Nature Communications, TNNLs and AAAI</span>, with more than 5,500 Google Scholar citations. Three of his publications have been selected as ESI Top 1% Highly Cited Papers. The Tianjic chip project, in which he participated, was recognized as one of the Top 10 Sci-tech Achievements in China in 2019.
+His recent works have been published in prestigious journals and top AI conferences, including <span style="color:blue;">Nature, Science Robotics, Nature Computational Science, Nature Communications, TNNLs and AAAI</span>. Three of his publications have been selected as ESI Top 1% Highly Cited Papers. The Tianjic chip project he participated in was recognized as one of the Top 10 Sci-tech Achievements in China in 2019.
 
 </div>
 
@@ -23,6 +23,8 @@ His previous works have been published in prestigious journals and top AI confer
 I am looking for highly self-motivated PhD students, PostDocs, and Research Assistants. If you are interested, please send me your CV. Thanks! (<u>All CVs are carefully evaluated. Only matched candidates will be responded within one week</u>.) </span>
 
 ###  **Research Interests** 
+I aim to uncover the computational principles of the brain and bridge the gap between neuroscience and AI to develop Brain-inspired General Intelligence (BGI). My recent research interests include:  
+
  * Brain-inspired learning algorithms and foundation models; 
  * Neuromorphic computing and spiking neural networks;
  * Computational neuroscience models for memory and synaptic plasticity;
