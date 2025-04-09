@@ -26,9 +26,9 @@ I am looking for highly self-motivated PhD students, PostDocs, and Research Assi
 <div style="text-align: justify;">
 I aim to uncover the computational principles of the brain and bridge the gap between neuroscience and AI to develop Brain-inspired General Intelligence (BGI). My recent research interests include:  
 </div>
- * Brain-inspired learning algorithms and foundation models; 
- * Neuromorphic computing and spiking neural networks;
- * Computational neuroscience models for memory and synaptic plasticity;
+ * Brain-inspired learning algorithms and cognitive LLM models; 
+ * Neuromorphic computings;
+ * Computational neuroscience models (e.g., memory model and synaptic plasticity);
  * Bioinspired robot applications;
 
 ### **Selected Ten Publications** <span style="font-size: small;">(updated as of December 2024)</span>
