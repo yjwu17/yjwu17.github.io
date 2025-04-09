@@ -3,6 +3,29 @@ permalink: /hiring/
 title: " "
 ---
 
-I am seeking motivated Post-Doctoral Fellows, Research Assistants, and Ph.D. students with a strong interest and experience in brain-inspired computing and computational neuroscience. If you are interested in joining my research team at PolyU, please email your CV (including research interests, GPA, publications, etc.) and transcript (required for Research Assistant and Ph.D. applicants).
+我目前招收1-3名2025/2026入学的全奖PhD学生（约1.9w港币/月）。这个帖子给自己打个广告，欢迎感兴趣的同学来合作，形式可以包括visiting/RA/PhD学生等，其中PhD还有25fall入学的机会，也欢迎RA过度一阵之后再申请26年春入学也可以。目前我处于 on-boarding 阶段，学校官网的信息尚未更新。我的研究方向有: （1）神经形态计算；（2）计算神经科学模型；（3）脑启发式大模型。
+
+## 个人介绍 
+我拥有数学、计算机科学与计算神经科学的复合背景，有幸受到多位类脑计算领域世界顶尖学者的指导。2021–2024 年间在TU Graz从事博士后研究，导师为 Wolfgang Maass教授（类脑计算开拓者），研究聚焦行为级可塑性机制以及大脑快速记忆模型。博士毕业于清华大学，研究类脑计算模型和脉冲训练算法，导师为施路平教授和朱军教授。
+
+我具备较为丰富的 Nature/Science期刊投稿经验（在审+已发表累超10 篇），并拥有多个 AI 顶会论文成果。团队与 MIT、北大、清华、中科院、浙大等多所高校保持良好合作关系。
+
+我不是放羊式的PI，我会给high-level的方向和安排每周1对1的讨论。我鼓励outcome-based的合作模式，如果你能够完成定期目标，工作模式很灵活。
+
+## 联系邮件
+我期待你在邮件能回答如下若干问题（请勿用GPT）：
+1．	为什么要读博士？
+2．	为什么申请我的博士，我的哪个方向是你最想做的？
+3．	我的哪篇文章吸引了你的注意？哪些点是有欠缺的。
+推荐发送前阅读这篇如何写联系邮件：https://uvasrg.github.io/prospective/
+
+## 博士生要求
+1.	计算机、数学、统计、电子、自动化、神经科学等相关专业（原则上不限专业，但要求有良好的编程和数理基础） 
+2.	托福90以上或雅思6.5以上（可按规定时间补交）
+3.	相比于知识、技能和经验，我更看重真诚、自我驱动、有好奇心、钻研精神和独立思考能力。期待有长期主义的有志青年一起共事，探索科学无人区。
+
+## 访问学生/RA（全年招聘）
+欢迎对类脑智能领域具有强烈兴趣的申请者加入。表现优秀者将获得推荐攻读合作高校研究生/博士项目的机会，我也会全力推荐有志者赴海外深造。
+ 
 
  
