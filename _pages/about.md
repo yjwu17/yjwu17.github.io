@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/7ee827ec-3eb4-4e20-abaa-574468941d77)![image](https://github.com/user-attachments/assets/31e42c8f-b685-41d0-8c6f-212dd930f682)![image](https://github.com/user-attachments/assets/bafdc2a3-b6cd-4912-b202-18471a1911ca)![image](https://github.com/user-attachments/assets/59ae39a0-9c08-4aa9-8982-608264cc5ce3)---
 permalink: /
 title: " "
 author_profile: true
@@ -21,6 +21,17 @@ His recent works have been published in prestigious journals and top AI conferen
 ### **Opening** 
 <span style="color:red;">
 I am looking for highly self-motivated PhD students, PostDocs, and Research Assistants. If you are interested, please send me your CV. Thanks! (<u>All CVs are carefully evaluated. Only matched candidates will be responded within one week</u>.) </span>
+
+
+### **News**
+- **[05/2025]** Awarded *Presidential Young Scholar* of The Hong Kong Polytechnic University (HK$3 million grant)  
+- **[04/2025]** Paper selected as a *Top 50 Featured Paper* by the editors of *Nature Communications*  
+- **[03/2025]** Invited as *Guest Editor* for *IEEE Transactions on Cognitive and Developmental Systems*  
+- **[01/2025]** Invited as *Guest Editor* for *Neuromorphic Computing and Engineering*  
+- **[12/2024]** Featured as one of the *World's Top 2% Most-Cited Scientists 2024* by Stanford University  
+"""
+
+
 
 ###  **Research Interests** 
 <div style="text-align: justify;">
