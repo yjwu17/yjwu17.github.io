@@ -29,7 +29,7 @@ I am looking for highly self-motivated PhD students, PostDocs, and Research Assi
 - **[03/2025]** Invited as *Guest Editor* for *IEEE Transactions on Cognitive and Developmental Systems*  
 - **[01/2025]** Invited as *Guest Editor* for *Neuromorphic Computing and Engineering*  
 - **[12/2024]** Featured as one of the *World's Top 2% Most-Cited Scientists 2024* by Stanford University  
-"""
+
 
 
 
