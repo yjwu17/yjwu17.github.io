@@ -23,12 +23,18 @@ His recent works have been published in prestigious journals and top AI conferen
 I am looking for highly self-motivated PhD students, PostDocs, and Research Assistants. If you are interested, please send me your CV. Thanks! (<u>All CVs are carefully evaluated. Only matched candidates will be responded within one week</u>.) </span>
 
 
+
+
 ### **News**
-- **[05/2025]** Awarded *Presidential Young Scholar* of The Hong Kong Polytechnic University (HK$3 million grant)  
-- **[04/2025]** Paper selected as a *Top 50 Featured Paper* by the editors of *Nature Communications*  
-- **[03/2025]** Invited as *Guest Editor* for *IEEE Transactions on Cognitive and Developmental Systems*  
-- **[01/2025]** Invited as *Guest Editor* for *Neuromorphic Computing and Engineering*  
-- **[12/2024]** Featured as one of the *World's Top 2% Most-Cited Scientists 2024* by Stanford University  
+<small>
+- **[05/2025]** Invited as an *Associate Editor* for *Neurocomputing*  
+- **[05/2025]** Awarded the *Presidential Young Scholar* title by The Hong Kong Polytechnic University (HK$3 million grant)  
+- **[04/2025]** One paper selected as a *Top 50 Featured Paper* by the editors of *Nature Communications*  
+- **[03/2025]** Received a *Gifted Research Fund* from Huawei  
+- **[02/2025]** Invited as a *Guest Editor* for *IEEE Transactions on Cognitive and Developmental Systems*  
+- **[01/2025]** Invited as a *Guest Editor* for *Neuromorphic Computing and Engineering*  
+- **[12/2024]** Listed among the *World's Top 2% Most-Cited Scientists 2024* by Stanford University  
+</small>
 
 
 
