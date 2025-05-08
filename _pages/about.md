@@ -48,44 +48,44 @@ I aim to uncover the computational principles of the brain and bridge the gap be
 
 ### **Selected Ten Publications** <span style="font-size: small;">(updated as of December 2024)</span>
 
-1. **Y. Wu**, W. Maass. "A simple model for Behavioral Time Scale Synaptic Plasticity (BTSP) provides content addressable memory with binary synapses and one-shot learning." **Nature Communications**, 2025. (*Featured paper*)
-
-2. **Y. Wu**, L. Deng, et al. "Adaptive spatiotemporal neural networks through complementary hybridization." **Nature Communications**, 2024, 15(1): 7355. (*Featured paper*)
-
-3. F. Yu# **Y. Wu#** (#Equal Contribution), M. Song#, et al. "Brain-inspired multimodal hybrid neural network for robot place recognition", **Science Robotics**, May 2023. (*Cover paper*)
-
-4. **Y. Wu**, R. Zhao, J. Zhu, et al. "Brain-inspired global-local learning incorporated with neuromorphic computing." **Nature Communications**, 2022, 13(1): 1-14.
-
-5. R. Zhao#, Y. Zhe#, H. Zheng#, **Y. Wu#**, et al. "A framework for the general design and computation of hybrid neural networks." **Nature Communications**, 2022.
-
-6. **Y. Wu**, L. Deng, G. Li, et al. "Direct training for spiking neural networks: faster, larger, better." In *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*, 2019, 33: 1311-1318. (*Spotlight*)
-
-7. **Y. Wu**, L. Deng, G. Li, et al. "Spatio-temporal backpropagation for training high-performance spiking neural networks." **Frontiers in Neuroscience**, 2018, 12: 331. (*ESI Top 1% Highly Cited Paper*)
-
-8. Z. Zhang#, T. Li#, **Y. Wu#**, et al. "Truly concomitant and independently expressed short- and long-term plasticity in a Bi₂O₂Se-based three-terminal memristor." **Advanced Materials**, 2019, 31(3): 1805769. (*Impact Factor: 30.2*)
-
-9. J. Pei, ..., **Y. Wu**, et al. "Towards artificial general intelligence with hybrid Tianjic chip architecture." **Nature**, 2019, 572(7767): 106-111. (*Cover paper*)
-
-10. L. He, Y. Xu, W. He, Y. Lin, Y. Tian, **Y. Wu**, et al. "Network model with internal complexity bridges artificial intelligence and neuroscience." **Nature Computational Science**, 2024, 4: 8 (*Cover runner-up*).
-
+<div style="font-size: 0.8em; line-height: 1.6;">
+  <ol>
+    <li><strong>Y. Wu</strong>, W. Maass. "A simple model for Behavioral Time Scale Synaptic Plasticity (BTSP) provides content addressable memory with binary synapses and one-shot learning." <strong>Nature Communications</strong>, 2025. (<em>Featured paper</em>)</li>
+    <li><strong>Y. Wu</strong>, L. Deng, et al. "Adaptive spatiotemporal neural networks through complementary hybridization." <strong>Nature Communications</strong>, 2024, 15(1): 7355. (<em>Featured paper</em>)</li>
+    <li>F. Yu# <strong>Y. Wu#</strong> (#Equal Contribution), M. Song#, et al. "Brain-inspired multimodal hybrid neural network for robot place recognition", <strong>Science Robotics</strong>, May 2023. (<em>Cover paper</em>)</li>
+    <li><strong>Y. Wu</strong>, R. Zhao, J. Zhu, et al. "Brain-inspired global-local learning incorporated with neuromorphic computing." <strong>Nature Communications</strong>, 2022, 13(1): 1–14.</li>
+    <li>R. Zhao#, Y. Zhe#, H. Zheng#, <strong>Y. Wu#</strong>, et al. "A framework for the general design and computation of hybrid neural networks." <strong>Nature Communications</strong>, 2022.</li>
+    <li><strong>Y. Wu</strong>, L. Deng, G. Li, et al. "Direct training for spiking neural networks: faster, larger, better." In <em>Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)</em>, 2019, 33: 1311–1318. (<em>Spotlight</em>)</li>
+    <li><strong>Y. Wu</strong>, L. Deng, G. Li, et al. "Spatio-temporal backpropagation for training high-performance spiking neural networks." <strong>Frontiers in Neuroscience</strong>, 2018, 12: 331. (<em>ESI Top 1% Highly Cited Paper</em>)</li>
+    <li>Z. Zhang#, T. Li#, <strong>Y. Wu#</strong>, et al. "Truly concomitant and independently expressed short- and long-term plasticity in a Bi₂O₂Se-based three-terminal memristor." <strong>Advanced Materials</strong>, 2019, 31(3): 1805769. (<em>Impact Factor: 30.2</em>)</li>
+    <li>J. Pei, ..., <strong>Y. Wu</strong>, et al. "Towards artificial general intelligence with hybrid Tianjic chip architecture." <strong>Nature</strong>, 2019, 572(7767): 106–111. (<em>Cover paper</em>)</li>
+    <li>L. He, Y. Xu, W. He, Y. Lin, Y. Tian, <strong>Y. Wu</strong>, et al. "Network model with internal complexity bridges artificial intelligence and neuroscience." <strong>Nature Computational Science</strong>, 2024, 4: 8. (<em>Cover runner-up</em>)</li>
+  </ol>
+</div>
 
 ### **Service Activities**
-* Associate Editor for *Neurocomputing*
-* Guest Editor for *Neuromorphic Computing and Engineering* 
-* Guest Editor for *IEEE Transactions on Cognitive and Developmental Systems*  
-* Technical Chair for PRSC 2024， CIS-RAM 2024   
-* Program Committee Member for AAAI 2025  
-* Technical Program Committee Member for IEEE GlobCon series  
-
+<div style="font-size: 0.8em; line-height: 1.6;">
+  <ul>
+    <li>Associate Editor for <em>Neurocomputing</em></li>
+    <li>Guest Editor for <em>Neuromorphic Computing and Engineering</em></li>
+    <li>Guest Editor for <em>IEEE Transactions on Cognitive and Developmental Systems</em></li>
+    <li>Technical Chair for PRSC 2024, CIS-RAM 2024</li>
+    <li>Program Committee Member for AAAI 2025</li>
+    <li>Technical Program Committee Member for IEEE GlobCon series</li>
+  </ul>
+</div>
 
 ### **Selected Talks** 
-- December 2024, Hangzhou, China. Plasticity Models for Hippocampal One-shot online learning, China Brain-Machine Intelligence Conference
-- November 2024, Yunnan, China. Brain-Inspired Hybrid Intelligence, International Youth Forum on Brain and Intelligence
-- October 2024, Xiamen, China. Brain-Inspired Hybrid Intelligence, Nanqiang Forum, Xiamen University
-- July 2024, Salzburg, Austria. One-Shot Learning and Robust Recall with BTSP, Graz University of Technology
-- January 2024, Hong Kong, China. Brain-Inspired Hybrid Global-Local Learning Methods, The Hong Kong Polytechnic University
-- May 2023, Beijing, China. Exploring brain-inspired local and local-global learning with neuromorphic computing, Institute of Automation, Chinese Academy of Sciences
- 
+<div style="font-size: 0.8em; line-height: 1.6;">
+  <ul>
+    <li>December 2024, Hangzhou, China. Plasticity Models for Hippocampal One-shot Online Learning, China Brain-Machine Intelligence Conference</li>
+    <li>November 2024, Yunnan, China. Brain-Inspired Hybrid Intelligence, International Youth Forum on Brain and Intelligence</li>
+    <li>October 2024, Xiamen, China. Brain-Inspired Hybrid Intelligence, Nanqiang Forum, Xiamen University</li>
+    <li>July 2024, Salzburg, Austria. One-Shot Learning and Robust Recall with BTSP, Graz University of Technology</li>
+    <li>January 2024, Hong Kong, China. Brain-Inspired Hybrid Global-Local Learning Methods, The Hong Kong Polytechnic University</li>
+    <li>May 2023, Beijing, China. Exploring Brain-Inspired Local and Local-Global Learning with Neuromorphic Computing, Institute of Automation, Chinese Academy of Sciences</li>
+  </ul>
+</div>
 
  
 
