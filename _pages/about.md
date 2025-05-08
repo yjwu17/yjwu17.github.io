@@ -70,10 +70,10 @@ I aim to uncover the computational principles of the brain and bridge the gap be
 
 
 ### **Service Activities**
-* Guest Editor for *Nature Computational Science*  
+* Associate Editor for *Neurocomputing*
+* Guest Editor for *Neuromorphic Computing and Engineering* 
 * Guest Editor for *IEEE Transactions on Cognitive and Developmental Systems*  
-* Associate Editor for CIS-RAM 2024  
-* Technical Chair for PRSC 2024  
+* Technical Chair for PRSC 2024， CIS-RAM 2024   
 * Program Committee Member for AAAI 2025  
 * Technical Program Committee Member for IEEE GlobCon series  
 
