@@ -23,19 +23,18 @@ His recent works have been published in prestigious journals and top AI conferen
 I am looking for highly self-motivated PhD students, PostDocs, and Research Assistants. If you are interested, please send me your CV. Thanks! (<u>All CVs are carefully evaluated. Only matched candidates will be responded within one week</u>.) </span>
 
 
-
-
 ### **News**
-<small>
-- **[05/2025]** Invited as an *Associate Editor* for *Neurocomputing*  
-- **[05/2025]** Awarded the *Presidential Young Scholar* title by The Hong Kong Polytechnic University (HK$3 million grant)  
-- **[04/2025]** One paper selected as a *Top 50 Featured Paper* by the editors of *Nature Communications*  
-- **[03/2025]** Received a *Gifted Research Fund* from Huawei  
-- **[02/2025]** Invited as a *Guest Editor* for *IEEE Transactions on Cognitive and Developmental Systems*  
-- **[01/2025]** Invited as a *Guest Editor* for *Neuromorphic Computing and Engineering*  
-- **[12/2024]** Listed among the *World's Top 2% Most-Cited Scientists 2024* by Stanford University  
-</small>
-
+<div style="font-size: 0.8em; line-height: 1.6;">
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li><strong>[05/2025]</strong> Invited as an <em>Associate Editor</em> for <em>Neurocomputing</em></li>
+    <li><strong>[05/2025]</strong> Awarded the <em>Presidential Young Scholar</em> title by The Hong Kong Polytechnic University (HK$3 million grant)</li>
+    <li><strong>[04/2025]</strong> One paper selected as a <em>Top 50 Featured Paper</em> by the editors of <em>Nature Communications</em></li>
+    <li><strong>[03/2025]</strong> Received a <em>Gifted Research Fund</em> from Huawei</li>
+    <li><strong>[02/2025]</strong> Invited as a <em>Guest Editor</em> for <em>IEEE Transactions on Cognitive and Developmental Systems</em></li>
+    <li><strong>[01/2025]</strong> Invited as a <em>Guest Editor</em> for <em>Neuromorphic Computing and Engineering</em></li>
+    <li><strong>[12/2024]</strong> Listed among the <em>World's Top 2% Most-Cited Scientists 2024</em> by Stanford University</li>
+  </ul>
+</div>
 
 
 ###  **Research Interests** 
