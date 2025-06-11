@@ -13,20 +13,20 @@ redirect_from:
 
 Dr. Yujie Wu is an Assistant Professor at The Hong Kong Polytechnic University (PolyU). Prior to this, he was a postdoctoral researcher collaborating with Prof. Wolfgang Maass, a pioneer in brain-inspired computing, at Graz University of Technology (2021–2024). He received his Ph.D. from Tsinghua University under the supervision of Prof. Luping Shi and Prof. Jun Zhu (2016-2021).
 
-His recent works have been published in prestigious journals and top AI conferences, including <span style="color:blue;">Nature, Science Robotics, Nature Computational Science, Nature Communications, TNNLs and AAAI</span>. He is featured  as the World's Top 2% Scientists by Stanford University and three of his publications have been selected as ESI Top 1% Highly Cited Papers. The Tianjic chip project he participated in was recognized as one of the Top 10 Sci-tech Achievements in China in 2019.
+His recent works have been published in prestigious journals and top AI conferences, including <span style="color:blue;">Nature, Science Robotics, Nature Computational Science, Nature Communications, TNNLs, ICML and AAAI</span>. He is featured  as the World's Top 2% Scientists by Stanford University and three of his publications have been selected as ESI Top 1% Highly Cited Papers. The Tianjic chip project he participated in was recognized as one of the Top 10 Sci-tech Achievements in China in 2019.
 
 </div>
 
 
 ### **Opening** 
 <span style="color:red;">
-I am looking for highly self-motivated PhD students, PostDocs, and Research Assistants. If you are interested, please send me your CV. Thanks! (<u>All CVs are carefully evaluated. Only matched candidates will be responded within two weeks</u>.) </span>
+I am looking for highly self-motivated PhD students, PostDocs, and Research Assistants. If you are interested, please send me your CV. Thanks! (<u>All CVs are carefully evaluated. Only matched candidates will be responded within TWO weeks</u>.) </span>
 
 
 ### **News**
 <div style="font-size: 0.8em; line-height: 1.6;">
   <ul style="list-style-type: none; padding-left: 0;">
-    <li><strong>[05/2025]</strong> Delivered an invited talk at <em>the BAAI Conference<em>
+    <li><strong>[05/2025]</strong> Delivered an invited talk at <em>the BAAI Conference<em></li>
     <li><strong>[05/2025]</strong> Invited as an <em>Associate Editor</em> for <em>Neurocomputing</em></li>
     <li><strong>[05/2025]</strong> Awarded the <em>Presidential Young Scholar</em> with HK$4 million grant supported</li>
     <li><strong>[04/2025]</strong> One paper selected as a <em>Top 50 Featured Paper</em> by the editors of <em>Nature Communications</em></li>
@@ -70,7 +70,9 @@ I aim to uncover the computational principles of the brain and bridge the gap be
     <li>Associate Editor for <em>Neurocomputing</em></li>
     <li>Guest Editor for <em>Neuromorphic Computing and Engineering</em></li>
     <li>Guest Editor for <em>IEEE Transactions on Cognitive and Developmental Systems</em></li>
-    <li>Technical Chair for PRSC 2024, CIS-RAM 2024</li>
+    <li>Associate Editor for PRSC 2024, CIS-RAM 2024</li>
+    <li>Reviewer Editor for <em>Frontier in neuroscience</em></li>
+    <li>Chair member for <em>IC-MIND</em></li>
     <li>Program Committee Member for AAAI 2025</li>
     <li>Technical Program Committee Member for IEEE GlobCon series</li>
   </ul>
