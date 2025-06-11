@@ -28,7 +28,7 @@ I am looking for highly self-motivated PhD students, PostDocs, and Research Assi
   <ul style="list-style-type: none; padding-left: 0;">
     <li><strong>[05/2025]</strong> Delivered an invited talk at <em>the BAAI Conference<em></li>
     <li><strong>[05/2025]</strong> Invited as an <em>Associate Editor</em> for <em>Neurocomputing</em></li>
-    <li><strong>[05/2025]</strong> Awarded the <em>Presidential Young Scholar</em> with HK$4 million grant supported</li>
+    <li><strong>[05/2025]</strong> Awarded the <em>Presidential Young Scholar</em> with HK$4 Million grant supported</li>
     <li><strong>[04/2025]</strong> One paper selected as a <em>Top 50 Featured Paper</em> by the editors of <em>Nature Communications</em></li>
     <li><strong>[03/2025]</strong> Received a <em>Gifted Research Fund</em> from Huawei</li>
     <li><strong>[02/2025]</strong> Invited as a <em>Guest Editor</em> for <em>IEEE Transactions on Cognitive and Developmental Systems</em></li>
@@ -72,9 +72,10 @@ I aim to uncover the computational principles of the brain and bridge the gap be
     <li>Guest Editor for <em>IEEE Transactions on Cognitive and Developmental Systems</em></li>
     <li>Associate Editor for PRSC 2024, CIS-RAM 2024</li>
     <li>Reviewer Editor for <em>Frontier in neuroscience</em></li>
-    <li>Chair member for <em>IC-MIND</em></li>
+    <li>Chair member for <em>IC-MIND 2025</em></li>
     <li>Program Committee Member for AAAI 2025</li>
     <li>Technical Program Committee Member for IEEE GlobCon series</li>
+    <li>Reviewers for Nature journals and many Top AI conferences</li>
   </ul>
 </div>
 
