@@ -39,14 +39,17 @@ I am looking for highly self-motivated PhD students, PostDocs, and Research Assi
 
 
 
-###  **Research Interests** 
+### **Research Interests** 
 <div style="text-align: justify;">
-I aim to uncover the computational principles of the brain and bridge the gap between neuroscience and AI to develop Brain-inspired General Intelligence (BGI). My recent research interests include:  
+  I aim to uncover the computational principles of the brain and bridge the gap between neuroscience and AI to develop Brain-inspired General Intelligence (BGI). My recent research interests include:
+  <ul style="list-style-type: disc; margin-left: 1.5em;">
+    <li>Brain-inspired intelligence and cognitive LLM models</li>
+    <li>Computational neuroscience models (e.g., memory models and synaptic plasticity)</li>
+    <li>Spiking neural networks</li>
+    <li>Bioinspired robotic applications</li>
+  </ul>
 </div>
- * Brain-inspired intelligence and cognitive LLM models; 
- * Computational neuroscience models (e.g., memory model and synaptic plasticity);
- * Spiking neural networks;
- * Bioinspired robot applications;
+
 
 ### **Selected Ten Publications** <span style="font-size: small;">(updated as of December 2024)</span>
 
@@ -72,11 +75,11 @@ I aim to uncover the computational principles of the brain and bridge the gap be
     <li>Guest Editor for <em>Neuromorphic Computing and Engineering</em></li>
     <li>Guest Editor for <em>IEEE Transactions on Cognitive and Developmental Systems</em></li>
     <li>Associate Editor for PRSC 2024, CIS-RAM 2024</li>
-    <li>Review Editor for <em>Frontier in neuroscience</em></li>
+    <li>Review Editor for <em>Frontiers in Neuroscience</em></li>
     <li>Chair member for <em>IC-MIND 2025</em></li>
     <li>Program Committee Member for AAAI 2025</li>
     <li>Technical Program Committee Member for IEEE GlobCon series</li>
-    <li>Reviewers for Nature journals and many Top AI conferences</li>
+    <li>Reviewer for Nature journals and other top AI conferences</li>
   </ul>
 </div>
 
