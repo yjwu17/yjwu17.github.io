@@ -24,18 +24,54 @@ I am looking for highly self-motivated PhD students, PostDocs, and Research Assi
 
 
 ### **News**
+### **News**
 <div style="font-size: 0.8em; line-height: 1.6;">
-  <ul style="list-style-type: none; padding-left: 0;">
-    <li><strong>[05/2025]</strong> Delivered an invited talk at <em>The BAAI Conference</em></li>
-    <li><strong>[05/2025]</strong> Invited as an <em>Associate Editor</em> for <em>Neurocomputing</em></li>
-    <li><strong>[05/2025]</strong> Awarded the <em>Presidential Young Scholar</em>, supported by a <em>HK$4 Million</em> grant</li>
-    <li><strong>[04/2025]</strong> One paper selected as a <em>Top 50 Featured Paper</em> by the editors of <em>Nature Communications</em></li>
-    <li><strong>[03/2025]</strong> Received a <em>Gifted Research Fund</em> from Huawei</li>
-    <li><strong>[02/2025]</strong> Invited as a <em>Guest Editor</em> for <em>IEEE Transactions on Cognitive and Developmental Systems</em></li>
-    <li><strong>[01/2025]</strong> Invited as a <em>Guest Editor</em> for <em>Neuromorphic Computing and Engineering</em></li>
-    <li><strong>[12/2024]</strong> Featured as the <em>World's Top 2% Most-Cited Scientists 2024</em> by Stanford University</li>
+  <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+    <li>
+      <strong>[07/2025]</strong>
+      <span style="color: purple;">
+        One General Research Fund (GRF) has been granted by Research Grants Council of Hong Kong
+      </span>
+    </li>
+    <li>
+      <strong>[05/2025]</strong>
+      Delivered an invited talk at <em>The BAAI Conference</em>
+    </li>
+    <li>
+      <strong>[05/2025]</strong>
+      Invited as an <em>Associate Editor</em> for <em>Neurocomputing</em>
+    </li>
+    <li>
+      <strong>[05/2025]</strong>
+      <span style="color: purple;">
+        Awarded the <em>Presidential Young Scholar</em>, supported by a <em>HK$4 Million</em> grant
+      </span>
+    </li>
+    <li>
+      <strong>[04/2025]</strong>
+      One paper selected as a <em>Top 50 Featured Paper</em> by the editors of <em>Nature Communications</em>
+    </li>
+    <li>
+      <strong>[03/2025]</strong>
+      <span style="color: purple;">
+        Received a <em>Gifted Research Fund</em> from Huawei
+      </span>
+    </li>
+    <li>
+      <strong>[02/2025]</strong>
+      Invited as a <em>Guest Editor</em> for <em>IEEE Transactions on Cognitive and Developmental Systems</em>
+    </li>
+    <li>
+      <strong>[01/2025]</strong>
+      Invited as a <em>Guest Editor</em> for <em>Neuromorphic Computing and Engineering</em>
+    </li>
+    <li>
+      <strong>[12/2024]</strong>
+      Featured as the <em>World’s Top 2% Most-Cited Scientists 2024</em> by Stanford University
+    </li>
   </ul>
 </div>
+
 
 
 
