@@ -30,7 +30,7 @@ I am looking for highly self-motivated PhD students, PostDocs, and Research Assi
     <li>
       <strong>[07/2025]</strong>
       <span style="color: purple;">
-        One General Research Fund (GRF) has been granted by Research Grants Council of Hong Kong
+        One General Research Fund (GRF) has been granted by Research Grants Council of Hong Kong (HK$85W)
       </span>
     </li>
     <li>
@@ -44,7 +44,7 @@ I am looking for highly self-motivated PhD students, PostDocs, and Research Assi
     <li>
       <strong>[05/2025]</strong>
       <span style="color: purple;">
-        Awarded the <em>Presidential Young Scholar</em>, supported by a <em>HK$4 Million</em> grant
+        Awarded the <em>Presidential Young Scholar</em>, supported by a <em>HK$400W</em> grant
       </span>
     </li>
     <li>
