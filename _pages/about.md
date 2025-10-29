@@ -11,11 +11,13 @@ redirect_from:
 ### **Short Bio**
 <div style="text-align: justify;">
 
-Dr. Yujie Wu is an Assistant Professor at The Hong Kong Polytechnic University (PolyU). Prior to this, he was a postdoctoral researcher collaborating with Prof. Wolfgang Maass, a pioneer in brain-inspired computing, at Graz University of Technology (2021–2024). He received his Ph.D. from Tsinghua University under the supervision of Prof. Luping Shi and Prof. Jun Zhu (2016-2021).
+Dr. Yujie Wu is currently an Assistant Professor (Presidential Young Scholar, Ph.D. Supervisor) in the Department of Computing at The Hong Kong Polytechnic University (PolyU). He received his Ph.D. from Tsinghua University in 2021 under the supervision of Prof. Luping Shi and Prof. Jun Zhu, and subsequently conducted postdoctoral research in the group of Prof. Wolfgang Maass at Graz University of Technology, Austria (Oct 2021–Feb 2024).
+His research interests focus on <em>computational neuroscience</em> and <em>brain-inspired intelligence</em>, with the ultimate goal of understanding and leveraging the brain’s computational principles to develop efficient, intelligent, and sustainable AI systems.
 
-His recent works have been published in prestigious journals and top AI conferences, including <span style="color:blue;">Nature, Science Robotics, Nature Computational Science, Nature Communications, TNNLs, ICML and AAAI</span>. He is featured  as the World's Top 2% Scientists by Stanford University and three of his publications have been selected as ESI Top 1% Highly Cited Papers. The Tianjic chip project he participated in was recognized as one of the Top 10 Sci-tech Achievements in China in 2019.
-
+His work has been published in leading journals and top conferences, including <span style="color:blue;">Nature, Science Robotics, Nature Computational Science, Nature Communications, ICML, and AAAI</span>. These publications have received multiple distinctions, such as cover papers, <em>ESI Top 1% Highly Cited Papers</em>, Featured Articles, Annual Recommended Papers, and Best Paper Awards.
+Dr. Wu currently serves as an <em>Associate Editor</em> for <em>Neurocomputing</em>. He has been recognized as a <span style="color:red;">Rising Star in Brain–Computer Intelligence in China</span> (2025, inaugural selection) and is featured among the <em>World’s Top 2% Most-Cited Scientists</em> by Stanford University (2024, 2025).
 </div>
+
 
 
 ### **Opening** 
@@ -23,33 +25,51 @@ His recent works have been published in prestigious journals and top AI conferen
 I am looking for highly self-motivated PhD students, PostDocs, and Research Assistants. If you are interested, please send me your CV. Thanks! (<u>All CVs are carefully evaluated. Only matched candidates will be responded within TWO weeks</u>.) </span>
 
 
-### **News**
+ 
 ### **News**
 <div style="font-size: 0.8em; line-height: 1.6;">
   <ul style="list-style-type: none; padding-left: 0; margin: 0;">
     <li>
+      <strong>[10/2025]</strong>
+      <span style="color: red;">
+        Nominated as a Rising Star in Brain–Computer Intelligence in China by the World Association of Young Scientists (1 of 6 recipients nationwide)
+      </span>
+    </li>
+    <li>
+      <strong>[09/2025]</strong>
+      Featured in the <em>World’s Top 2% Most-Cited Scientists 2025</em> list by Stanford University
+    </li>
+    <li>
+      <strong>[09/2025]</strong>
+      <span style="color: red;">
+        One paper published in <em>Nature Communications</em>!
+      </span>
+    </li>
+    <li>
+      <strong>[08/2025]</strong>
+      <span style="color: red;">
+        Recognized as a Top Reviewer for NeurIPS 2025
+      </span>
+    </li>
+    <li>
       <strong>[07/2025]</strong>
       <span style="color: purple;">
-        One General Research Fund (GRF) has been granted by Research Grants Council of Hong Kong (HK$85W)
+        Awarded a General Research Fund (GRF) by the Research Grants Council of Hong Kong
       </span>
     </li>
     <li>
       <strong>[05/2025]</strong>
-      Delivered an invited talk at <em>The BAAI Conference</em>
-    </li>
-    <li>
-      <strong>[05/2025]</strong>
-      Invited as an <em>Associate Editor</em> for <em>Neurocomputing</em>
+      Invited as an <em>Associate Editor</em> for <em>Neurocomputing</em> （IF=8.18）.
     </li>
     <li>
       <strong>[05/2025]</strong>
       <span style="color: purple;">
-        Awarded the <em>Presidential Young Scholar</em>, supported by a <em>HK$400W</em> grant
+        Awarded the <em>Presidential Young Scholar</em>, supported by a <em>HK$4M</em> grant
       </span>
     </li>
     <li>
       <strong>[04/2025]</strong>
-      One paper selected as a <em>Top 50 Featured Paper</em> by the editors of <em>Nature Communications</em>
+      One paper selected as a <em>Top 50 Featured Paper</em> by the editors of <em>Nature Communications</em>.
     </li>
     <li>
       <strong>[03/2025]</strong>
@@ -59,11 +79,17 @@ I am looking for highly self-motivated PhD students, PostDocs, and Research Assi
     </li>
     <li>
       <strong>[02/2025]</strong>
-      Invited as a <em>Guest Editor</em> for <em>IEEE Transactions on Cognitive and Developmental Systems</em>
+      Invited as a <em>Guest Editor</em> for <em>IEEE Transactions on Cognitive and Developmental Systems</em>.
     </li>
     <li>
       <strong>[01/2025]</strong>
-      Invited as a <em>Guest Editor</em> for <em>Neuromorphic Computing and Engineering</em>
+      <span style="color: red;">
+        One paper published in <em>Nature Communications</em>!
+      </span>
+    </li>
+    <li>
+      <strong>[01/2025]</strong>
+      Invited as a <em>Guest Editor</em> for <em>Neuromorphic Computing and Engineering</em>.
     </li>
     <li>
       <strong>[12/2024]</strong>
