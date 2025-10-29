@@ -15,7 +15,7 @@ Dr. Yujie Wu is currently an Assistant Professor (Presidential Young Scholar, Ph
 His research interests focus on <em>computational neuroscience</em> and <em>brain-inspired intelligence</em>, with the ultimate goal of understanding and leveraging the brain’s computational principles to develop efficient, intelligent, and sustainable AI systems.
 
 His work has been published in leading journals and top conferences, including <span style="color:blue;">Nature, Science Robotics, Nature Computational Science, Nature Communications, ICML, and AAAI</span>. These publications have received multiple distinctions, such as cover papers, <em>ESI Top 1% Highly Cited Papers</em>, Featured Articles, Annual Recommended Papers, and Best Paper Awards.
-Dr. Wu currently serves as an <em>Associate Editor</em> for <em>Neurocomputing</em>. He has been recognized as a <span style="color:orange;">Rising Star in Brain–Computer Intelligence in China</span> (2025, inaugural selection) and is featured among the <em>World’s Top 2% Most-Cited Scientists</em> by Stanford University (2024, 2025).
+Dr. Wu currently serves as an <em>Associate Editor</em> for <em>Neurocomputing</em>. He has been recognized as a Rising Star in Brain–Computer Intelligence in China (2025, inaugural selection) and is featured among the <em>World’s Top 2% Most-Cited Scientists</em> by Stanford University (2024, 2025).
 </div>
 
 
@@ -81,7 +81,6 @@ I am looking for highly self-motivated PhD students, PostDocs, and Research Assi
     </li>
     <li>
       <strong>[02/2025]</strong>
-      <span style="color: cyan;">
       Invited as a <em>Guest Editor</em> for <em>IEEE Transactions on Cognitive and Developmental Systems</em>.
     </li>
     <li>
@@ -92,7 +91,6 @@ I am looking for highly self-motivated PhD students, PostDocs, and Research Assi
     </li>
     <li>
       <strong>[01/2025]</strong>
-      <span style="color: cyan;">
       Invited as a <em>Guest Editor</em> for <em>Neuromorphic Computing and Engineering</em>.
     </li>
   </ul>
