@@ -36,8 +36,9 @@ I am looking for highly self-motivated PhD students, PostDocs, and Research Assi
       </span>
     </li>
     <li>
+      <strong>[09/2025]</strong>
       <span style="color: orange;">
-      Featured in the <em>World’s Top 2% Most-Cited Scientists 2025</em> list by Stanford University
+      Featured in the <em>World’s Top 2% Most-Cited Scientists 2025</em> list by Stanford University (2024,2025)
     </li>
     <li>
       <strong>[09/2025]</strong>
