@@ -26,19 +26,20 @@ I am looking for highly self-motivated PhD students, PostDocs, and Research Assi
 
 
  
-**### **News**
+### **News**
 <div style="font-size: 0.8em; line-height: 1.6;">
   <ul style="list-style-type: none; padding-left: 0; margin: 0;">
     <li>
       <strong>[10/2025]</strong>
-      <span style="color: magenta;">
+      <span style="color: purple;">
         Nominated as a Rising Star in Brain–Computer Intelligence in China by the World Association of Young Scientists (1 of 6 recipients nationwide)
       </span>
     </li>
     <li>
       <strong>[09/2025]</strong>
-      <span style="color: magenta;">
+      <span style="color: purple;">
       Featured in the <em>World’s Top 2% Most-Cited Scientists 2025</em> list by Stanford University (2024,2025)
+      </span>
     </li>
     <li>
       <strong>[09/2025]</strong>
@@ -62,6 +63,7 @@ I am looking for highly self-motivated PhD students, PostDocs, and Research Assi
       <strong>[05/2025]</strong>
       <span style="color: blue;">
       Invited as an <em>Associate Editor</em> for <em>Neurocomputing</em> （IF=8.18）.
+      </span>
     </li>
     <li>
       <strong>[05/2025]</strong>
@@ -109,6 +111,7 @@ I am looking for highly self-motivated PhD students, PostDocs, and Research Assi
     <li>Bioinspired robotic applications</li>
   </ul>
 </div>
+
 
 
 ### **Selected Ten Publications** <span style="font-size: small;">(updated as of December 2024)</span>
