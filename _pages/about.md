@@ -15,7 +15,7 @@ Dr. Yujie Wu is currently an Assistant Professor (Presidential Young Scholar, Ph
 His research interests focus on <em>computational neuroscience</em> and <em>brain-inspired intelligence</em>, with the ultimate goal of understanding and leveraging the brain’s computational principles to develop efficient, intelligent, and sustainable AI systems.
 
 His work has been published in leading journals and top conferences, including <span style="color:blue;">Nature, Science Robotics, Nature Computational Science, Nature Communications, ICML, and AAAI</span>. These publications have received multiple distinctions, such as cover papers, <em>ESI Top 1% Highly Cited Papers</em>, Featured Articles, Annual Recommended Papers, and Best Paper Awards.
-Dr. Wu currently serves as an <em>Associate Editor</em> for <em>Neurocomputing</em>. He has been recognized as a <span style="color:red;">Rising Star in Brain–Computer Intelligence in China</span> (2025, inaugural selection) and is featured among the <em>World’s Top 2% Most-Cited Scientists</em> by Stanford University (2024, 2025).
+Dr. Wu currently serves as an <em>Associate Editor</em> for <em>Neurocomputing</em>. He has been recognized as a <span style="color:orange;">Rising Star in Brain–Computer Intelligence in China</span> (2025, inaugural selection) and is featured among the <em>World’s Top 2% Most-Cited Scientists</em> by Stanford University (2024, 2025).
 </div>
 
 
@@ -31,23 +31,23 @@ I am looking for highly self-motivated PhD students, PostDocs, and Research Assi
   <ul style="list-style-type: none; padding-left: 0; margin: 0;">
     <li>
       <strong>[10/2025]</strong>
-      <span style="color: red;">
+      <span style="color: orange;">
         Nominated as a Rising Star in Brain–Computer Intelligence in China by the World Association of Young Scientists (1 of 6 recipients nationwide)
       </span>
     </li>
     <li>
-      <strong>[09/2025]</strong>
+      <span style="color: orange;">
       Featured in the <em>World’s Top 2% Most-Cited Scientists 2025</em> list by Stanford University
     </li>
     <li>
       <strong>[09/2025]</strong>
-      <span style="color: red;">
+      <span style="color: green;">
         One paper published in <em>Nature Communications</em>!
       </span>
     </li>
     <li>
       <strong>[08/2025]</strong>
-      <span style="color: red;">
+      <span style="color: cyan;">
         Recognized as a Top Reviewer for NeurIPS 2025
       </span>
     </li>
@@ -59,11 +59,12 @@ I am looking for highly self-motivated PhD students, PostDocs, and Research Assi
     </li>
     <li>
       <strong>[05/2025]</strong>
+      <span style="color: cyan;">
       Invited as an <em>Associate Editor</em> for <em>Neurocomputing</em> （IF=8.18）.
     </li>
     <li>
       <strong>[05/2025]</strong>
-      <span style="color: purple;">
+      <span style="color: orange;">
         Awarded the <em>Presidential Young Scholar</em>, supported by a <em>HK$4M</em> grant
       </span>
     </li>
@@ -79,21 +80,19 @@ I am looking for highly self-motivated PhD students, PostDocs, and Research Assi
     </li>
     <li>
       <strong>[02/2025]</strong>
+      <span style="color: cyan;">
       Invited as a <em>Guest Editor</em> for <em>IEEE Transactions on Cognitive and Developmental Systems</em>.
     </li>
     <li>
       <strong>[01/2025]</strong>
-      <span style="color: red;">
+      <span style="color: green;">
         One paper published in <em>Nature Communications</em>!
       </span>
     </li>
     <li>
       <strong>[01/2025]</strong>
+      <span style="color: cyan;">
       Invited as a <em>Guest Editor</em> for <em>Neuromorphic Computing and Engineering</em>.
-    </li>
-    <li>
-      <strong>[12/2024]</strong>
-      Featured as the <em>World’s Top 2% Most-Cited Scientists 2024</em> by Stanford University
     </li>
   </ul>
 </div>
