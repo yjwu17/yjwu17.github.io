@@ -38,13 +38,13 @@ I am looking for highly self-motivated PhD students, PostDocs, and Research Assi
     <li>
       <strong>[09/2025]</strong>
       <span style="color: purple;">
-      Featured in the <em>World’s Top 2% Most-Cited Scientists 2025</em> list by Stanford University (2024,2025)
+      Featured in the <em>World’s Top 2% Most-Cited Scientists 2025</em> list by Stanford University (2024, 2025)
       </span>
     </li>
     <li>
       <strong>[09/2025]</strong>
       <span style="color: green;">
-        One paper published in <em>Nature Communications</em>!
+        One paper published in <em>Nature Communications</em> 
       </span>
     </li>
     <li>
@@ -62,7 +62,7 @@ I am looking for highly self-motivated PhD students, PostDocs, and Research Assi
     <li>
       <strong>[05/2025]</strong>
       <span style="color: blue;">
-      Invited as an <em>Associate Editor</em> for <em>Neurocomputing</em> （IF=8.18）.
+      Invited as an <em>Associate Editor</em> for <em>Neurocomputing</em> （IF=8.18） 
       </span>
     </li>
     <li>
@@ -73,7 +73,7 @@ I am looking for highly self-motivated PhD students, PostDocs, and Research Assi
     </li>
     <li>
       <strong>[04/2025]</strong>
-      One paper selected as a <em>Top 50 Featured Paper</em> by the editors of <em>Nature Communications</em>.
+      One paper selected as a <em>Top 50 Featured Paper</em> by the editors of <em>Nature Communications</em> 
     </li>
     <li>
       <strong>[03/2025]</strong>
@@ -83,17 +83,17 @@ I am looking for highly self-motivated PhD students, PostDocs, and Research Assi
     </li>
     <li>
       <strong>[02/2025]</strong>
-      Invited as a <em>Guest Editor</em> for <em>IEEE Transactions on Cognitive and Developmental Systems</em>.
+      Invited as a <em>Guest Editor</em> for <em>IEEE Transactions on Cognitive and Developmental Systems</em> 
     </li>
     <li>
       <strong>[01/2025]</strong>
       <span style="color: green;">
-        One paper published in <em>Nature Communications</em>!
+        One paper published in <em>Nature Communications</em> 
       </span>
     </li>
     <li>
       <strong>[01/2025]</strong>
-      Invited as a <em>Guest Editor</em> for <em>Neuromorphic Computing and Engineering</em>.
+      Invited as a <em>Guest Editor</em> for <em>Neuromorphic Computing and Engineering</em> 
     </li>
   </ul>
 </div>
@@ -140,9 +140,9 @@ I am looking for highly self-motivated PhD students, PostDocs, and Research Assi
     <li>Associate Editor for PRSC 2024, CIS-RAM 2024</li>
     <li>Review Editor for <em>Frontiers in Neuroscience</em></li>
     <li>Chair member for <em>IC-MIND 2025</em></li>
-    <li>Program Committee Member for AAAI 2025</li>
+    <li>Program Committee Member for AAAI 2024, 2025</li>
     <li>Technical Program Committee Member for IEEE GlobCon series</li>
-    <li>Reviewer for Nature journals and other top AI conferences</li>
+    <li>Reviewer for Nature series journals and multiple top AI conferences</li>
   </ul>
 </div>
 
