@@ -11,11 +11,18 @@ redirect_from:
 ### **Short Bio**
 <div style="text-align: justify;">
 
+<p>
 Dr. Yujie Wu is currently an Assistant Professor (Presidential Young Scholar, Ph.D. Supervisor) in the Department of Computing at The Hong Kong Polytechnic University (PolyU). He received his Ph.D. from Tsinghua University in 2021 under the supervision of Prof. Luping Shi and Prof. Jun Zhu, and subsequently conducted postdoctoral research in the group of Prof. Wolfgang Maass at Graz University of Technology, Austria (Oct 2021–Feb 2024).
-His research interests focus on <em>computational neuroscience</em> and <em>brain-inspired intelligence</em>, with the ultimate goal of understanding and leveraging the brain’s computational principles to develop efficient, intelligent, and sustainable AI systems.
+</p>
 
+<p>
+His research interests focus on <em>computational neuroscience</em> and <em>brain-inspired intelligence</em>, with the ultimate goal of understanding and leveraging the brain’s computational principles to develop efficient, intelligent, and sustainable AI systems.
+</p>
+
+<p>
 His work has been published in leading journals and top conferences, including <span style="color:blue;">Nature, Science Robotics, Nature Computational Science, Nature Communications, ICML, and AAAI</span>. These publications have received multiple distinctions, such as cover papers, <em>ESI Top 1% Highly Cited Papers</em>, Featured Articles, Annual Recommended Papers, and Best Paper Awards.
 Dr. Wu currently serves as an <em>Associate Editor</em> for <em>Neurocomputing</em>. He has been recognized as a Rising Star in Brain–Computer Intelligence in China (2025, inaugural selection) and is featured among the <em>World’s Top 2% Most-Cited Scientists</em> by Stanford University (2024, 2025).
+</p>
 </div>
 
 
@@ -30,9 +37,15 @@ I am looking for highly self-motivated PhD students, PostDocs, and Research Assi
 <div style="font-size: 0.8em; line-height: 1.6;">
   <ul style="list-style-type: none; padding-left: 0; margin: 0;">
     <li>
+  <strong>[11/2025]</strong>
+  <span style="color: purple;">
+    Selected as a <em>BAAI Young Scholar</em> by the Beijing Academy of Artificial Intelligence (BAAI)
+  </span>
+</li>
+    <li>
       <strong>[10/2025]</strong>
       <span style="color: purple;">
-        Nominated as a Rising Star in Brain–Computer Intelligence in China by the World Association of Young Scientists (1 of 6 recipients nationwide)
+        Selected as a Rising Star in Brain–Computer Intelligence in China by the World Association of Young Scientists (1 of 6 recipients nationwide)
       </span>
     </li>
     <li>
