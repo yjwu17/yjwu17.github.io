@@ -29,11 +29,11 @@ Dr. Wu currently serves as an <em>Associate Editor</em> for <em>Neurocomputing</
 
 ### **Opening**
 <div style="color: red; text-align: justify; line-height: 1.6; margin-bottom: 20px;">
-    <strong>(Updated Mar 2026)</strong> I am looking for highly self-motivated PhD students, Postdocs, and Research Assistants (for Fall 2027 and ongoing intake) who are interested in <em>brain-inspired</em> sensing technologies, embodied systems, efficient foundation architectures, or computational neuroscience (BTSP and related memory models). If you are interested in any of these areas, please send me your CV. 
+    <strong>(Updated Mar 2026)</strong> I am looking for highly self-motivated PhD students (for Spring/Fall 2027), Postdocs, and Research Assistants (year-round) who are interested in <em>neuromorphic</em> computer vision, bio-inspired VLA, brain-inspired foundation architectures, or computational neuroscience (BTSP and related memory models). If you are interested in any of these areas, please send me your CV.
     <br><br>
-    <strong>Note:</strong> If your interest lies primarily in traditional AI, or if you are solely seeking an AI PhD diploma, please do not apply. Under normal circumstances, all prospective PhD candidates are expected to complete a 1-to-3-month internship (on-site or remote) prior to formal admission. 
+    <strong>Note:</strong> If your primary interest lies in traditional AI, or if you are solely seeking an AI PhD degree, please <strong>DO NOT</strong> apply. Under normal circumstances, all prospective PhD candidates are expected to complete a 1–3 month paid internship (on-site or remote) prior to formal admission.
     <br><br>
-    <u>All CVs are carefully evaluated. Only shortlisted candidates will be contacted within TWO weeks.</u>
+    <u>All CVs will be carefully evaluated. Only shortlisted candidates will be contacted within TWO weeks.</u>
 </div>
 
 ### **News**
