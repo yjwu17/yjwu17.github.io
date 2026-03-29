@@ -1,4 +1,4 @@
----
+<img width="432" height="647" alt="image" src="https://github.com/user-attachments/assets/207d849c-947e-47a8-bed3-3f0cf70f4113" />---
 permalink: /
 title: " "
 author_profile: true
@@ -27,102 +27,84 @@ Dr. Wu currently serves as an <em>Associate Editor</em> for <em>Neurocomputing</
 
 
 
-### **Opening** 
-<span style="color:red;">
-I am looking for highly self-motivated PhD students, PostDocs, and Research Assistants. If you are interested, please send me your CV. Thanks! (<u>All CVs are carefully evaluated. Only matched candidates will be responded within TWO weeks</u>.) </span>
-
-
- 
-### **News**
-<div style="font-size: 0.8em; line-height: 1.6;">
-  <ul style="list-style-type: none; padding-left: 0; margin: 0;">
-    <li>
-  <strong>[11/2025]</strong>
-  <span style="color: purple;">
-    Selected as a <em>BAAI Young Scholar</em> by the Beijing Academy of Artificial Intelligence (BAAI)
-  </span>
-</li>
-    <li>
-      <strong>[10/2025]</strong>
-      <span style="color: purple;">
-        Selected as a Rising Star in Brain–Computer Intelligence in China by the World Association of Young Scientists (1 of 6 recipients nationwide)
-      </span>
-    </li>
-    <li>
-      <strong>[09/2025]</strong>
-      <span style="color: purple;">
-      Featured in the <em>World’s Top 2% Most-Cited Scientists 2025</em> list by Stanford University (2024, 2025)
-      </span>
-    </li>
-    <li>
-      <strong>[09/2025]</strong>
-      <span style="color: green;">
-        One paper published in <em>Nature Communications</em> 
-      </span>
-    </li>
-    <li>
-      <strong>[08/2025]</strong>
-      <span style="color: blue;">
-        Recognized as a Top Reviewer for NeurIPS 2025
-      </span>
-    </li>
-    <li>
-      <strong>[07/2025]</strong>
-      <span style="color: purple;">
-        Awarded a General Research Fund (GRF) by the Research Grants Council of Hong Kong
-      </span>
-    </li>
-    <li>
-      <strong>[05/2025]</strong>
-      <span style="color: blue;">
-      Invited as an <em>Associate Editor</em> for <em>Neurocomputing</em> （IF=8.18） 
-      </span>
-    </li>
-    <li>
-      <strong>[05/2025]</strong>
-      <span style="color: orange;">
-        Awarded the <em>Presidential Young Scholar</em>, supported by a <em>HK$4M</em> grant
-      </span>
-    </li>
-    <li>
-      <strong>[04/2025]</strong>
-      One paper selected as a <em>Top 50 Featured Paper</em> by the editors of <em>Nature Communications</em> 
-    </li>
-    <li>
-      <strong>[03/2025]</strong>
-      <span style="color: purple;">
-        Received a <em>Gifted Research Fund</em> from Huawei
-      </span>
-    </li>
-    <li>
-      <strong>[02/2025]</strong>
-      Invited as a <em>Guest Editor</em> for <em>IEEE Transactions on Cognitive and Developmental Systems</em> 
-    </li>
-    <li>
-      <strong>[01/2025]</strong>
-      <span style="color: green;">
-        One paper published in <em>Nature Communications</em> 
-      </span>
-    </li>
-    <li>
-      <strong>[01/2025]</strong>
-      Invited as a <em>Guest Editor</em> for <em>Neuromorphic Computing and Engineering</em> 
-    </li>
-  </ul>
+### **Opening**
+<div style="color: red; text-align: justify; line-height: 1.6; margin-bottom: 20px;">
+    <strong>(Updated Mar 2026)</strong> I am looking for highly self-motivated PhD students, Postdocs, and Research Assistants (for Fall 2027 and ongoing intake) who are interested in <em>brain-inspired</em> sensing technologies, embodied systems, efficient foundation architectures, or computational neuroscience (BTSP and related memory models). If you are interested in any of these areas, please send me your CV. 
+    <br><br>
+    <strong>Note:</strong> If your interest lies primarily in traditional AI, or if you are solely seeking an AI PhD diploma, please do not apply. Under normal circumstances, all prospective PhD candidates are expected to complete a 1-to-3-month internship (on-site or remote) prior to formal admission. 
+    <br><br>
+    <u>All CVs are carefully evaluated. Only shortlisted candidates will be contacted within TWO weeks.</u>
 </div>
 
+### **News**
+<div style="font-size: 0.8em; line-height: 1.6;">
+    <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+        <li>
+            <strong>[03/2026]</strong> <span style="color: purple;"> Received a substantial donation from Hong Kong foundations to support our research on new-generation brain-inspired AI architectures. </span>
+        </li>
+        <li>
+            <strong>[02/2026]</strong> <span style="color: purple;"> Awarded a research grant from mainland Chinese companies to support our research on brain-inspired computing technologies. </span>
+        </li>
+        <li>
+            <strong>[02/2026]</strong> <span style="color: green;"> One paper published in <em>Neural Networks</em>. Congratulations to my excellent collaborators! </span>
+        </li>
+        <li>
+            <strong>[02/2026]</strong> <span style="color: green;"> Two papers accepted by <em>ICLR 2026</em>. Congratulations to my excellent collaborators! </span>
+        </li>
+        <li>
+            <strong>[02/2026]</strong> <span style="color: purple;"> Selected as a <em>BAAI Young Scholar</em> by the Beijing Academy of Artificial Intelligence (BAAI). </span>
+        </li>
+        <li>
+            <strong>[01/2026]</strong> <span style="color: blue;"> Selected as a <em>Senior Editorial Board Member</em> for <em>Discover Artificial Intelligence</em> (Springer Nature). </span>
+        </li>
+        <li>
+            <strong>[10/2025]</strong> <span style="color: purple;"> Selected as a Rising Star in Brain–Computer Intelligence in China by the World Association of Young Scientists (1 of 6 recipients nationwide). </span>
+        </li>
+        <li>
+            <strong>[09/2025]</strong> <span style="color: purple;"> Featured in the <em>World’s Top 2% Most-Cited Scientists 2025</em> list by Stanford University (2024, 2025). </span>
+        </li>
+        <li>
+            <strong>[09/2025]</strong> <span style="color: green;"> One paper published in <em>Nature Communications</em>. Appreciate and congratulations to my excellent collaborators! </span>
+        </li>
+        <li>
+            <strong>[08/2025]</strong> <span style="color: blue;"> Recognized as a Top Reviewer for NeurIPS 2025. </span>
+        </li>
+        <li>
+            <strong>[07/2025]</strong> <span style="color: purple;"> Awarded a General Research Fund (GRF) by the Research Grants Council of Hong Kong. </span>
+        </li>
+        <li>
+            <strong>[05/2025]</strong> <span style="color: blue;"> Invited as an <em>Associate Editor</em> for <em>Neurocomputing</em>. </span>
+        </li>
+        <li>
+            <strong>[05/2025]</strong> <span style="color: orange;"> Awarded the <em>Presidential Young Scholar</em>, supported by a <em>HK$4M</em> grant. </span>
+        </li>
+        <li>
+            <strong>[04/2025]</strong> One paper selected as a <em>Top 50 Featured Paper</em> by the editors of <em>Nature Communications</em>.
+        </li>
+        <li>
+            <strong>[03/2025]</strong> <span style="color: purple;"> Received a <em>Gifted Research Fund</em> from Huawei. </span>
+        </li>
+        <li>
+            <strong>[02/2025]</strong> Invited as a <em>Guest Editor</em> for <em>IEEE Transactions on Cognitive and Developmental Systems</em>.
+        </li>
+        <li>
+            <strong>[01/2025]</strong> <span style="color: green;"> One paper published in <em>Nature Communications</em>. </span>
+        </li>
+        <li>
+            <strong>[01/2025]</strong> Invited as a <em>Guest Editor</em> for <em>Neuromorphic Computing and Engineering</em>.
+        </li>
+    </ul>
+</div>
 
-
-
-### **Research Interests** 
+### **Research Interests**
 <div style="text-align: justify;">
-  I aim to uncover the computational principles of the brain and bridge the gap between neuroscience and AI to develop Brain-inspired General Intelligence (BGI). My recent research interests include:
-  <ul style="list-style-type: disc; margin-left: 1.5em;">
-    <li>Brain-inspired intelligence and cognitive LLM models</li>
-    <li>Computational neuroscience models (e.g., memory models and synaptic plasticity)</li>
-    <li>Spiking neural networks</li>
-    <li>Bioinspired robotic applications</li>
-  </ul>
+    I aim to uncover the computational principles of the brain and apply our understandings to developing smart, efficient, and sustainable artificial intelligence. My recent research interests include:
+    <ul style="list-style-type: disc; margin-left: 1.5em; margin-top: 10px;">
+        <li>Brain-inspired intelligence and Large Language Models (LLMs)</li>
+        <li>Computational neuroscience (currently focusing on memory models and synaptic plasticity) </li>
+        <li>Bio-inspired embodied AI </li>
+        <li>Spiking neural networks (SNNs) </li>
+    </ul>
 </div>
 
 
