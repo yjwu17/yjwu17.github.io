@@ -64,7 +64,7 @@ Dr. Wu currently serves as an <em>Associate Editor</em> for <em>Neurocomputing</
             <strong>[09/2025]</strong> <span style="color: purple;"> Featured in the <em>World’s Top 2% Most-Cited Scientists 2025</em> list by Stanford University (2024, 2025). </span>
         </li>
         <li>
-            <strong>[09/2025]</strong> <span style="color: green;"> One paper published in <em>Nature Communications</em>. Appreciate and congratulations to my excellent collaborators! </span>
+            <strong>[09/2025]</strong> <span style="color: green;"> One paper published in <em>Nature Communications</em>. Congratulations to my excellent collaborators! </span>
         </li>
         <li>
             <strong>[08/2025]</strong> <span style="color: blue;"> Recognized as a Top Reviewer for NeurIPS 2025. </span>
