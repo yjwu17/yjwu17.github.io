@@ -129,6 +129,7 @@ Dr. Wu currently serves as an <em>Associate Editor</em> for <em>Neurocomputing</
 ### **Service Activities**
 <div style="font-size: 0.8em; line-height: 1.6;">
   <ul>
+    <li>Senior Editorial Board Member for <em>Discover Artificial Intelligence</em></li>
     <li>Associate Editor for <em>Neurocomputing</em></li>
     <li>Guest Editor for <em>Neuromorphic Computing and Engineering</em></li>
     <li>Guest Editor for <em>IEEE Transactions on Cognitive and Developmental Systems</em></li>
