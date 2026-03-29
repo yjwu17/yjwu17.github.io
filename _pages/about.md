@@ -28,12 +28,15 @@ Dr. Wu currently serves as an <em>Associate Editor</em> for <em>Neurocomputing</
 
 
 ### **Opening**
-<div style="color: red; text-align: justify; line-height: 1.6; margin-bottom: 20px;">
-    <strong>(Updated Mar 2026)</strong> I am looking for highly self-motivated PhD students (for Spring/Fall 2027), Postdocs, and Research Assistants (year-round) who are interested in <em>neuromorphic</em> computer vision, bio-inspired VLA, brain-inspired foundation architectures, or computational neuroscience (BTSP and related memory models). If you are interested in any of these areas, please send me your CV.
-    <br><br>
-    <strong>Note:</strong> If your primary interest lies in traditional AI, or if you are solely seeking an AI PhD degree, please <strong>DO NOT</strong> apply. Under normal circumstances, all prospective PhD candidates are expected to complete a 1–3 month paid internship (on-site or remote) prior to formal admission.
-    <br><br>
-    <u>All CVs will be carefully evaluated. Only shortlisted candidates will be contacted within TWO weeks.</u>
+<div style="font-size: 0.8em; color: red; text-align: justify; line-height: 1.6; margin-bottom: 20px;">
+<strong>(Updated Mar 2026)</strong> I am looking for highly self-motivated PhD students (for Spring/Fall 2027), Postdocs, and Research Assistants (year-round) who are interested in <em>neuromorphic</em> computer vision, bio-inspired VLA, brain-inspired foundation architectures, or computational neuroscience (BTSP and related memory models). If you are interested in any of these areas, please send me your CV.
+<br><br>
+<u>All CVs and emails will be carefully evaluated. Only shortlisted candidates will be contacted within TWO weeks. Please include in your email your thoughts on some of following questions:
+<br>1. Why do you want to pursue a PhD?
+<br>2. Why are you applying to my lab? Which research direction interests you the most?
+<br>3. Which of my papers attracted your attention? What limitations or possible improvements do you see?</u>
+<br><br>
+<strong>Note:</strong> If your primary interest lies in traditional AI, or if you are solely seeking an AI PhD degree, please <strong>DO NOT</strong> apply.
 </div>
 
 ### **News**
@@ -43,7 +46,7 @@ Dr. Wu currently serves as an <em>Associate Editor</em> for <em>Neurocomputing</
             <strong>[03/2026]</strong> <span style="color: purple;"> Received a substantial donation from Hong Kong foundations to support our research on new-generation brain-inspired AI architectures. </span>
         </li>
         <li>
-            <strong>[02/2026]</strong> <span style="color: purple;"> Awarded a research grant from mainland Chinese companies to support our research on brain-inspired computing technologies. </span>
+            <strong>[02/2026]</strong> <span style="color: purple;"> Awarded a research grant from mainland Chinese companies to support our research on brain-inspired sensing technologies. </span>
         </li>
         <li>
             <strong>[02/2026]</strong> <span style="color: green;"> One paper published in <em>Neural Networks</em>. Congratulations to my excellent collaborators! </span>
@@ -103,7 +106,7 @@ Dr. Wu currently serves as an <em>Associate Editor</em> for <em>Neurocomputing</
         <li>Brain-inspired intelligence and Large Language Models (LLMs)</li>
         <li>Computational neuroscience (currently focusing on memory models and synaptic plasticity) </li>
         <li>Bio-inspired embodied AI </li>
-        <li>Spiking neural networks (SNNs) </li>
+        <li>Spiking neural networks (SNNs) and neuromorphic engineering </li>
     </ul>
 </div>
 
