@@ -29,24 +29,24 @@ Dr. Wu currently serves as an <em>Associate Editor</em> for <em>Neurocomputing</
 
 ### **Opening**
 <div style="font-size: 0.8em; color: red; text-align: justify; line-height: 1.6; margin-bottom: 20px;">
-<strong>(Updated Mar 2026)</strong> I am looking for highly self-motivated PhD students (for Spring/Fall 2027), Postdocs, and Research Assistants (year-round) who are interested in <em>neuromorphic</em> computer vision, bio-inspired VLA, brain-inspired foundation architectures, or computational neuroscience (BTSP and related memory models). If you are interested in any of these areas, please send me your CV.
+<strong>(Updated Mar 2026)</strong> I am looking for highly self-motivated PhD students (for Spring/Fall 2027), Postdocs, and Research Assistants (year-round) who are interested in <em>neuromorphic</em> computer vision, brain-inspired VLA, brain-inspired foundation architectures, or computational neuroscience (BTSP and related memory models). If you are interested in any of these areas, please send me your CV.
 <br><br>
 <u>All CVs and emails will be carefully evaluated. Only shortlisted candidates will be contacted within TWO weeks. Please include in your email your thoughts on some of following questions:
 <br>1. Why do you want to pursue a PhD?
 <br>2. Why are you applying to my lab? Which research direction interests you the most?
 <br>3. Which of my papers attracted your attention? What limitations or possible improvements do you see?</u>
 <br><br>
-<strong>Note:</strong> If your primary interest lies in traditional AI, or if you are solely seeking an AI PhD degree, please <strong>DO NOT</strong> apply.
+<strong>Note:</strong> If your primary interest lies in traditional AI, or if you are solely seeking an AI-related PhD degree, please <strong>DO NOT</strong> apply.
 </div>
 
 ### **News**
 <div style="font-size: 0.8em; line-height: 1.6;">
     <ul style="list-style-type: none; padding-left: 0; margin: 0;">
         <li>
-            <strong>[03/2026]</strong> <span style="color: purple;"> Received a substantial donation from Hong Kong foundations to support our research on new-generation brain-inspired AI architectures. </span>
+            <strong>[03/2026]</strong> <span style="color: purple;"> Received a big Gifted Research Fund from Hong Kong foundations to support our research on new-generation brain-inspired AI architectures. </span>
         </li>
         <li>
-            <strong>[02/2026]</strong> <span style="color: purple;"> Awarded a research grant from mainland Chinese companies to support our research on brain-inspired sensing technologies. </span>
+            <strong>[02/2026]</strong> <span style="color: purple;"> Awarded a Gifted Research Fund from mainland Chinese companies to support our research on brain-inspired sensing technologies. </span>
         </li>
         <li>
             <strong>[02/2026]</strong> <span style="color: green;"> One paper published in <em>Neural Networks</em>. Congratulations to my excellent collaborators! </span>
@@ -132,7 +132,7 @@ Dr. Wu currently serves as an <em>Associate Editor</em> for <em>Neurocomputing</
 ### **Service Activities**
 <div style="font-size: 0.8em; line-height: 1.6;">
   <ul>
-    <li>Senior Editorial Board Member for <em>Discover Artificial Intelligence</em></li>
+    <li>Editorial Board Member for <em>Discover Artificial Intelligence</em></li>
     <li>Associate Editor for <em>Neurocomputing</em></li>
     <li>Guest Editor for <em>Neuromorphic Computing and Engineering</em></li>
     <li>Guest Editor for <em>IEEE Transactions on Cognitive and Developmental Systems</em></li>
