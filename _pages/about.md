@@ -9,10 +9,10 @@ redirect_from:
 
 
 ### **Short Bio**
-<div style="text-align: justify;">
+<div style="font-size: 0.8em; text-align: justify;">
 
 <p>
-Dr. Yujie Wu is currently an Assistant Professor (Presidential Young Scholar, Ph.D. Supervisor) in the Department of Computing at The Hong Kong Polytechnic University (PolyU). He received his Ph.D. from Tsinghua University in 2021 under the supervision of Prof. Luping Shi and Prof. Jun Zhu, and subsequently conducted postdoctoral research in the group of Prof. Wolfgang Maass at Graz University of Technology, Austria (Oct 2021–Feb 2024).
+Dr. Yujie Wu is currently an Assistant Professor (Presidential Young Scholar, Ph.D. Supervisor) in the Department of Computing at The Hong Kong Polytechnic University. He received his Ph.D. from Tsinghua University in 2021 under the supervision of Prof. Luping Shi and Prof. Jun Zhu, and subsequently conducted postdoctoral research in the group of Prof. Wolfgang Maass in Austria (Oct 2021–Feb 2024).
 </p>
 
 <p>
@@ -43,7 +43,7 @@ Dr. Wu currently serves as an <em>Associate Editor</em> for <em>Neurocomputing</
 <div style="font-size: 0.8em; line-height: 1.6;">
     <ul style="list-style-type: none; padding-left: 0; margin: 0;">
         <li>
-            <strong>[03/2026]</strong> <span style="color: purple;"> Received a big Gifted Research Fund from Hong Kong foundations to support our research on new-generation brain-inspired AI architectures. </span>
+            <strong>[03/2026]</strong> <span style="color: purple;"> Awarded a big Gifted Research Fund from Hong Kong foundations to support our research on new-generation brain-inspired AI architectures. </span>
         </li>
         <li>
             <strong>[02/2026]</strong> <span style="color: purple;"> Awarded a Gifted Research Fund from mainland Chinese companies to support our research on brain-inspired sensing technologies. </span>
@@ -52,7 +52,7 @@ Dr. Wu currently serves as an <em>Associate Editor</em> for <em>Neurocomputing</
             <strong>[02/2026]</strong> <span style="color: green;"> One paper published in <em>Neural Networks</em>. Congratulations to my excellent collaborators! </span>
         </li>
         <li>
-            <strong>[02/2026]</strong> <span style="color: green;"> Two papers accepted by <em>ICLR 2026</em>. Congratulations to my excellent collaborators! </span>
+            <strong>[02/2026]</strong> <span style="color: green;"> Two papers published in  <em>ICLR 2026</em>. Congratulations to my excellent collaborators! </span>
         </li>
         <li>
             <strong>[02/2026]</strong> <span style="color: purple;"> Selected as a <em>BAAI Young Scholar</em> by the Beijing Academy of Artificial Intelligence (BAAI). </span>
@@ -85,13 +85,13 @@ Dr. Wu currently serves as an <em>Associate Editor</em> for <em>Neurocomputing</
             <strong>[04/2025]</strong> One paper selected as a <em>Top 50 Featured Paper</em> by the editors of <em>Nature Communications</em>.
         </li>
         <li>
-            <strong>[03/2025]</strong> <span style="color: purple;"> Received a <em>Gifted Research Fund</em> from Huawei. </span>
+            <strong>[03/2025]</strong> <span style="color: purple;"> Awarded a <em>Gifted Research Fund</em> from Huawei. </span>
         </li>
         <li>
             <strong>[02/2025]</strong> Invited as a <em>Guest Editor</em> for <em>IEEE Transactions on Cognitive and Developmental Systems</em>.
         </li>
         <li>
-            <strong>[01/2025]</strong> <span style="color: green;"> One paper published in <em>Nature Communications</em>. </span>
+            <strong>[01/2025]</strong> <span style="color: green;"> One paper published in <em>Nature Communications</em>.  Congratulations to my excellent collaborators!</span>
         </li>
         <li>
             <strong>[01/2025]</strong> Invited as a <em>Guest Editor</em> for <em>Neuromorphic Computing and Engineering</em>.
@@ -101,7 +101,7 @@ Dr. Wu currently serves as an <em>Associate Editor</em> for <em>Neurocomputing</
 
 ### **Research Interests**
 <div style="text-align: justify;">
-    I aim to uncover the computational principles of the brain and apply our understandings to developing smart, efficient, and sustainable artificial intelligence. My recent research interests include:
+    We aim to uncover the computational principles of the brain and apply our understandings to developing smart, efficient, and sustainable artificial intelligence. My recent research interests include:
     <ul style="list-style-type: disc; margin-left: 1.5em; margin-top: 10px;">
         <li>Brain-inspired intelligence and Large Language Models (LLMs)</li>
         <li>Computational neuroscience (currently focusing on memory models and synaptic plasticity) </li>
