@@ -42,65 +42,64 @@ All applications will be carefully reviewed. Due to the large number of inquirie
 </div>
 
 ### **News**
-<div style="font-size: 0.8em; line-height: 1.6;">
+<div style="line-height: 1.6; max-height: 400px; overflow-y: auto; padding-right: 10px;">
     <ul style="list-style-type: none; padding-left: 0; margin: 0;">
-        <li>
-            <strong>[03/2026]</strong> <span style="color: purple;"> Awarded a big Gifted Research Fund from Hong Kong foundations to support our research on brain-inspired AI architectures. </span>
+        <li style="margin-bottom: 8px;">
+            <strong>[03/2026]</strong> 💰 Awarded a large Gifted Research Fund from Hong Kong foundations to support our research on brain-inspired AI architectures.
         </li>
-        <li>
-            <strong>[02/2026]</strong> <span style="color: purple;"> Awarded a Gifted Research Fund from mainland Chinese companies to support our research on brain-inspired sensing technologies. </span>
+        <li style="margin-bottom: 8px;">
+            <strong>[02/2026]</strong> 💰 Awarded a Gifted Research Fund from mainland Chinese companies to support our research on brain-inspired sensing technologies.
         </li>
-        <li>
-            <strong>[02/2026]</strong> <span style="color: green;"> One paper published in <em>Neural Networks</em>. Congratulations to my excellent collaborators! </span>
+        <li style="margin-bottom: 8px;">
+            <strong>[02/2026]</strong> 📝 One paper published in <em>Neural Networks</em>. Congratulations to my excellent collaborators!
         </li>
-        <li>
-            <strong>[02/2026]</strong> <span style="color: green;"> Two papers published in  <em>ICLR 2026</em>. Congratulations to my excellent collaborators! </span>
+        <li style="margin-bottom: 8px;">
+            <strong>[02/2026]</strong> 📝 Two papers accepted to <em>ICLR 2026</em>. Congratulations to my excellent collaborators!
         </li>
-        <li>
-            <strong>[02/2026]</strong> <span style="color: purple;"> Selected as a <em>BAAI Young Scholar</em> by the Beijing Academy of Artificial Intelligence (BAAI). </span>
+        <li style="margin-bottom: 8px;">
+            <strong>[02/2026]</strong> 🏆 Selected as a <em>BAAI Young Scholar</em> by the Beijing Academy of Artificial Intelligence (BAAI).
         </li>
-        <li>
-            <strong>[01/2026]</strong> <span style="color: blue;"> Selected as a <em>Senior Editorial Board Member</em> for <em>Discover Artificial Intelligence</em> (Springer Nature). </span>
+        <li style="margin-bottom: 8px;">
+            <strong>[01/2026]</strong> 💼 Selected as an Editorial Board Member for <em>Discover Artificial Intelligence</em> (Springer Nature).
         </li>
-        <li>
-            <strong>[10/2025]</strong> <span style="color: purple;"> Selected as a Rising Star in Brain–Computer Intelligence in China by the World Association of Young Scientists (1 of 6 recipients nationwide). </span>
+        <li style="margin-bottom: 8px;">
+            <strong>[10/2025]</strong> 🌟 Selected as a <em>Rising Star in Brain–Computer Intelligence</em> in China by the World Association of Young Scientists (1 of 6 recipients nationwide).
         </li>
-        <li>
-            <strong>[09/2025]</strong> <span style="color: purple;"> Featured in the <em>World’s Top 2% Most-Cited Scientists 2025</em> list by Stanford University (2024, 2025). </span>
+        <li style="margin-bottom: 8px;">
+            <strong>[09/2025]</strong> 🌟 Featured in the <em>World’s Top 2% Most-Cited Scientists</em> list by Stanford University (2024, 2025).
         </li>
-        <li>
-            <strong>[09/2025]</strong> <span style="color: green;"> One paper published in <em>Nature Communications</em>. Congratulations to my excellent collaborators! </span>
+        <li style="margin-bottom: 8px;">
+            <strong>[09/2025]</strong> 📝 One paper published in <em>Nature Communications</em>. Congratulations to my excellent collaborators!
         </li>
-        <li>
-            <strong>[08/2025]</strong> <span style="color: blue;"> Recognized as a Top Reviewer for NeurIPS 2025. </span>
+        <li style="margin-bottom: 8px;">
+            <strong>[08/2025]</strong> 🏅 Recognized as a Top Reviewer for <em>NeurIPS 2025</em>.
         </li>
-        <li>
-            <strong>[07/2025]</strong> <span style="color: purple;"> Awarded a General Research Fund (GRF) by the Research Grants Council of Hong Kong. </span>
+        <li style="margin-bottom: 8px;">
+            <strong>[07/2025]</strong> 💰 Awarded a General Research Fund (GRF) by the Research Grants Council of Hong Kong.
         </li>
-        <li>
-            <strong>[05/2025]</strong> <span style="color: blue;"> Invited as an <em>Associate Editor</em> for <em>Neurocomputing</em>. </span>
+        <li style="margin-bottom: 8px;">
+            <strong>[05/2025]</strong> 💼 Invited to serve as an Associate Editor for <em>Neurocomputing</em>.
         </li>
-        <li>
-            <strong>[05/2025]</strong> <span style="color: orange;"> Awarded the <em>Presidential Young Scholar</em>, supported by a <em>HK$4M</em> grant. </span>
+        <li style="margin-bottom: 8px;">
+            <strong>[05/2025]</strong> 🏆 Named a <em>Presidential Young Scholar</em>, supported by a <em>HK$4M</em> grant.
         </li>
-        <li>
-            <strong>[04/2025]</strong> One paper selected as a <em>Top 50 Featured Paper</em> by the editors of <em>Nature Communications</em>.
+        <li style="margin-bottom: 8px;">
+            <strong>[04/2025]</strong> 🏅 One paper selected as a <em>Top 50 Featured Paper</em> by the editors of <em>Nature Communications</em>.
         </li>
-        <li>
-            <strong>[03/2025]</strong> <span style="color: purple;"> Awarded a <em>Gifted Research Fund</em> from Huawei. </span>
+        <li style="margin-bottom: 8px;">
+            <strong>[03/2025]</strong> 💰 Awarded a Gifted Research Fund from Huawei.
         </li>
-        <li>
-            <strong>[02/2025]</strong> Invited as a <em>Guest Editor</em> for <em>IEEE Transactions on Cognitive and Developmental Systems</em>.
+        <li style="margin-bottom: 8px;">
+            <strong>[02/2025]</strong> 💼 Invited to serve as a Guest Editor for <em>IEEE Transactions on Cognitive and Developmental Systems</em>.
         </li>
-        <li>
-            <strong>[01/2025]</strong> <span style="color: green;"> One paper published in <em>Nature Communications</em>.  Congratulations to my excellent collaborators!</span>
+        <li style="margin-bottom: 8px;">
+            <strong>[01/2025]</strong> 📝 One paper published in <em>Nature Communications</em>. Congratulations to my excellent collaborators!
         </li>
-        <li>
-            <strong>[01/2025]</strong> Invited as a <em>Guest Editor</em> for <em>Neuromorphic Computing and Engineering</em>.
+        <li style="margin-bottom: 8px;">
+            <strong>[01/2025]</strong> 💼 Invited to serve as a Guest Editor for <em>Neuromorphic Computing and Engineering</em>.
         </li>
     </ul>
 </div>
-
 
 ### **Selected Ten Publications** <span style="font-size: small;">(updated as of Jan 2025)</span>
 
