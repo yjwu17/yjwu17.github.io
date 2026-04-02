@@ -12,11 +12,11 @@ redirect_from:
 <div style="font-size: 0.8em; text-align: justify;">
 
 <p>
-Dr. Yujie Wu is currently an Assistant Professor (Presidential Young Scholar, Ph.D. Supervisor) in the Department of Computing at The Hong Kong Polytechnic University. He received his Ph.D. from Tsinghua University in 2021 under the supervision of Prof. Luping Shi and Prof. Jun Zhu, and subsequently conducted postdoctoral research in the group of Prof. Wolfgang Maass in Austria (Oct 2021–Feb 2024).
+Dr. Yujie Wu is currently an Assistant Professor (Presidential Young Scholar, Ph.D. Supervisor) in the Department of Computing at The Hong Kong Polytechnic University. He received his Ph.D. from Tsinghua University in 2021 under the supervision of Prof. Luping Shi and Prof. Jun Zhu, and conducted postdoctoral research in the group of Prof. Wolfgang Maass in Austria (Oct 2021–Feb 2024).
 </p>
 
 <p>
-His research interests focus on <em>computational neuroscience</em> and <em>brain-inspired intelligence</em>, with the ultimate goal of understanding and leveraging the brain’s computational principles to develop efficient, intelligent, and sustainable AI systems.
+His research lies at the intersection of <em>computational neuroscience</em> and <em>brain-inspired AI</em>, with the ultimate goal of understanding and leveraging the brain’s computational principles to develop efficient, intelligent, and sustainable AI systems.
 </p>
 
 <p>
@@ -29,21 +29,23 @@ Dr. Wu currently serves as an <em>Associate Editor</em> for <em>Neurocomputing</
 
 ### **Opening**
 <div style="font-size: 0.8em; color: red; text-align: justify; line-height: 1.6; margin-bottom: 20px;">
-<strong>(Updated Mar 2026)</strong> I am looking for highly self-motivated PhD students (for Spring/Fall 2027), Postdocs, and Research Assistants (year-round) who are interested in <em>neuromorphic</em> computer vision, brain-inspired VLA, brain-inspired foundation architectures, or computational neuroscience (BTSP and related memory models). If you are interested in any of these areas, please send me your CV.
+<strong>(Updated March 2026)</strong> I am recruiting highly self-motivated PhD students (Spring/Fall 2027 intake), postdoctoral researchers, visiting students, and research assistants. We are particularly interested in candidates who are excited about <em>neuromorphic</em> computer vision, brain-inspired vision-language-action (VLA) models, brain-inspired foundation architectures, and computational neuroscience, especially synaptic plasticity and related memory models.
 <br><br>
-<u>All CVs and emails will be carefully evaluated. Only shortlisted candidates will be contacted within TWO weeks. Please include in your email your thoughts on some of following questions:
+If you are interested in joining the lab, please email me your <strong>CV</strong>, <strong>transcripts</strong> (if available), and a brief statement addressing some of the  followings:
 <br>1. Why do you want to pursue a PhD?
-<br>2. Why are you applying to my lab? Which research direction interests you the most?
-<br>3. Which of my papers attracted your attention? What limitations or possible improvements do you see?</u>
+<br>2. Why are you interested in our lab, and which research direction excites you most?
+<br>3. Which of my papers have you read, and what limitations or possible extensions do you see?
 <br><br>
-<strong>Note:</strong> If your primary interest lies in traditional AI, or if you are solely seeking an AI-related PhD degree, please <strong>DO NOT</strong> apply.
+All applications will be carefully reviewed. Due to the large number of inquiries, only shortlisted candidates will typically be contacted within two weeks.
+<br><br>
+<strong>Please note:</strong> this lab is best suited for applicants with a strong long-term interest in brain-inspired intelligence, neuromorphic computing, or computational neuroscience, rather than those seeking a general AI degree only.
 </div>
 
 ### **News**
 <div style="font-size: 0.8em; line-height: 1.6;">
     <ul style="list-style-type: none; padding-left: 0; margin: 0;">
         <li>
-            <strong>[03/2026]</strong> <span style="color: purple;"> Awarded a big Gifted Research Fund from Hong Kong foundations to support our research on new-generation brain-inspired AI architectures. </span>
+            <strong>[03/2026]</strong> <span style="color: purple;"> Awarded a big Gifted Research Fund from Hong Kong foundations to support our research on brain-inspired AI architectures. </span>
         </li>
         <li>
             <strong>[02/2026]</strong> <span style="color: purple;"> Awarded a Gifted Research Fund from mainland Chinese companies to support our research on brain-inspired sensing technologies. </span>
@@ -99,20 +101,8 @@ Dr. Wu currently serves as an <em>Associate Editor</em> for <em>Neurocomputing</
     </ul>
 </div>
 
-### **Research Interests**
-<div style="text-align: justify;">
-    We aim to uncover the computational principles of the brain and apply our understandings to developing smart, efficient, and sustainable artificial intelligence. My recent research interests include:
-    <ul style="list-style-type: disc; margin-left: 1.5em; margin-top: 10px;">
-        <li>Brain-inspired intelligence and Large Language Models (LLMs)</li>
-        <li>Computational neuroscience (currently focusing on memory models and synaptic plasticity) </li>
-        <li>Bio-inspired embodied AI </li>
-        <li>Spiking neural networks (SNNs) and neuromorphic engineering </li>
-    </ul>
-</div>
 
-
-
-### **Selected Ten Publications** <span style="font-size: small;">(updated as of December 2024)</span>
+### **Selected Ten Publications** <span style="font-size: small;">(updated as of Jan 2025)</span>
 
 <div style="font-size: 0.8em; line-height: 1.6;">
   <ol>
