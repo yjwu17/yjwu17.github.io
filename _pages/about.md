@@ -45,7 +45,7 @@ All applications will be carefully reviewed. Due to the large number of inquirie
 <div style="line-height: 1.6; max-height: 400px; overflow-y: auto; padding-right: 10px;">
     <ul style="list-style-type: none; padding-left: 0; margin: 0;">
        <li style="margin-bottom: 8px;">
-            <strong>[05/2026]</strong> 💰 Received the Young Innovative Researcher Award (HKD 500,000 research grant + HKD 20,000 personal cash prize) from the University Grants Committee.
+            <strong>[05/2026]</strong> 💰 Received the Young Innovative Researcher Award (HKD 500,000 research grant) from the University Grants Committee.
         </li>
         <li style="margin-bottom: 8px;">
             <strong>[03/2026]</strong> 💰 Awarded a large Gifted Research Fund from Hong Kong foundations to support our research on brain-inspired AI architectures.
@@ -60,7 +60,7 @@ All applications will be carefully reviewed. Due to the large number of inquirie
             <strong>[02/2026]</strong> 📝 Two papers accepted to <em>ICLR 2026</em>. Congratulations to my excellent collaborators!
         </li>
         <li style="margin-bottom: 8px;">
-            <strong>[02/2026]</strong> 🏆 Selected as a <em>BAAI Young Scholar</em> (with CNY 500,000 research grant) by the Beijing Academy of Artificial Intelligence (BAAI).
+            <strong>[02/2026]</strong> 🏆 Selected as a <em>BAAI Young Scholar</em> (CNY 500,000 research grant) by the Beijing Academy of Artificial Intelligence (BAAI).
         </li>
         <li style="margin-bottom: 8px;">
             <strong>[01/2026]</strong> 💼 Selected as an Editorial Board Member for <em>Discover Artificial Intelligence</em> (Springer Nature).
