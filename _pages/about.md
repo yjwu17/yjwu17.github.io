@@ -12,7 +12,7 @@ redirect_from:
 <div style="font-size: 0.8em; text-align: justify;">
 
 <p>
-Dr. Yujie Wu is currently an Assistant Professor (Presidential Young Scholar, Ph.D. Supervisor) in the Department of Computing at The Hong Kong Polytechnic University. He received his Ph.D. from Tsinghua University in 2021 under the supervision of Prof. Luping Shi and Prof. Jun Zhu, and conducted postdoctoral research in the group of Prof. Wolfgang Maass in Austria (Oct 2021–Feb 2024).
+Dr. Yujie Wu is currently an Assistant Professor (Ph.D. Supervisor) in the Department of Computing at The Hong Kong Polytechnic University. He received his Ph.D. from Tsinghua University in 2021 under the supervision of Prof. Luping Shi and Prof. Jun Zhu, and conducted postdoctoral research in the group of Prof. Wolfgang Maass in Austria (2021.10–2024.2).
 </p>
 
 <p>
@@ -20,8 +20,8 @@ His research lies at the intersection of <em>computational neuroscience</em> and
 </p>
 
 <p>
-His work has been published in leading journals and top conferences, including <span style="color:blue;">Nature, Science Robotics, Nature Computational Science, Nature Communications, ICML, and AAAI</span>. These publications have received multiple distinctions, such as cover papers, <em>ESI Top 1% Highly Cited Papers</em>, Featured Articles, Annual Recommended Papers, and Best Paper Awards.
 Dr. Wu currently serves as an <em>Associate Editor</em> for <em>Neurocomputing</em>. He has been recognized as a Rising Star in Brain–Computer Intelligence in China (2025, inaugural selection) and is featured among the <em>World’s Top 2% Most-Cited Scientists</em> by Stanford University (2024, 2025).
+  His work has been published in leading journals and  conferences, including Nature, Science Robotics, Nature Computational Science, Nature Communications, ICML, ICLR, AAAI, with more than 8,000 Google Scholar citations. His work also received several distinctions, such as cover papers in Nature and Science Robotics, ESI Top 1%/0.1% Highly Cited Papers,  Annual Recommended Papers, and Best Paper Awards. Dr. Wu currently serves as an Associate Editor for Neurocomputing, Senior PC for several prestigious AI conferences, and Reviewer for Cell- and Nature-serials journals. He has been recognized as a Rising Star in Brain–Computer Intelligence in China (2025) , the World’s Top 2% Most-Cited Scientists by Stanford University (2024-2025),  Young BAAI Scholar (2026), the PolyU Presidential Young Scholar （2024），the PolyU Young Innovative Researcher Award (2026).
 </p>
 </div>
 
@@ -29,7 +29,7 @@ Dr. Wu currently serves as an <em>Associate Editor</em> for <em>Neurocomputing</
 
 ### **Opening**
 <div style="font-size: 0.8em; color: red; text-align: justify; line-height: 1.6; margin-bottom: 20px;">
-<strong>(Updated March 2026)</strong> I am recruiting highly self-motivated PhD students (Spring/Fall 2027 intake), postdoctoral researchers, visiting students, and research assistants. We are particularly interested in candidates who are excited about <em>neuromorphic</em> computer vision, brain-inspired vision-language-action (VLA) models, brain-inspired foundation architectures, and computational neuroscience, especially synaptic plasticity and related memory models.
+<strong>(Updated July 2026)</strong> I am recruiting highly self-motivated PhD students (Fall 2027 intake), postdoctoral researchers, visiting students, and research assistants. We are particularly interested in candidates who are excited about <em>neuromorphic</em> computer vision,  brain-inspired foundation architectures, and computational neuroscience, especially synaptic plasticity and related memory models.
 <br><br>
 If you are interested in joining the lab, please email me your <strong>CV</strong>, <strong>transcripts</strong> (if available), and a brief statement addressing some of the  followings:
 <br>1. Why do you want to pursue a PhD?
