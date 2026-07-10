@@ -20,8 +20,7 @@ His research lies at the intersection of <em>computational neuroscience</em> and
 </p>
 
 <p>
-Dr. Wu currently serves as an <em>Associate Editor</em> for <em>Neurocomputing</em>. He has been recognized as a Rising Star in Brain–Computer Intelligence in China (2025, inaugural selection) and is featured among the <em>World’s Top 2% Most-Cited Scientists</em> by Stanford University (2024, 2025).
-  His work has been published in leading journals and  conferences, including Nature, Science Robotics, Nature Computational Science, Nature Communications, ICML, ICLR, AAAI, with more than 8,000 Google Scholar citations. His work also received several distinctions, such as cover papers in Nature and Science Robotics, ESI Top 1%/0.1% Highly Cited Papers,  Annual Recommended Papers, and Best Paper Awards. Dr. Wu currently serves as an Associate Editor for Neurocomputing, Senior PC for several prestigious AI conferences, and Reviewer for Cell- and Nature-serials journals. He has been recognized as a Rising Star in Brain–Computer Intelligence in China (2025) , the World’s Top 2% Most-Cited Scientists by Stanford University (2024-2025),  Young BAAI Scholar (2026), the PolyU Presidential Young Scholar （2024），the PolyU Young Innovative Researcher Award (2026).
+His work has been published in leading journals and  conferences, including Nature, Science Robotics, Nature Computational Science, Nature Communications, ICML, ICLR, AAAI, with more than 8,000 Google Scholar citations. His work also received several distinctions, such as cover papers (e.g., Nature, Sci. Robot.), ESI Top 1% Highly Cited Papers,  Best Paper Awards (e.g., TNNLs, J. Control Decis.) and Annual Recommended Papers (e.g., Nat. Comput. Sci.). Dr. Wu currently serves as an Associate Editor for Neurocomputing, Senior PC for several prestigious AI conferences, and Reviewer for Cell- and Nature-serials journals. He has been recognized as a Rising Star in Brain–Computer Intelligence in China (2025), the World’s Top 2% Most-Cited Scientists by Stanford University (2025-2026), Young BAAI Scholar (2026), the PolyU Presidential Young Scholar （2024）, Young Innovative Researcher Award (2026).
 </p>
 </div>
 
@@ -44,6 +43,9 @@ All applications will be carefully reviewed. Due to the large number of inquirie
 ### **News**
 <div style="line-height: 1.6; max-height: 400px; overflow-y: auto; padding-right: 10px;">
     <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+        <li style="margin-bottom: 8px;">
+            <strong>[07/2026]</strong> 🏆 Received the 2027 IEEE Transactions on Neural Networks and Learning Systems Outstanding Paper Award. Congratulations to my excellent collaborators!
+        </li>
        <li style="margin-bottom: 8px;">
             <strong>[05/2026]</strong> 💰 Received the Young Innovative Researcher Award (HKD 500,000 research grant) from the University Grants Committee.
         </li>
@@ -79,27 +81,6 @@ All applications will be carefully reviewed. Due to the large number of inquirie
         </li>
         <li style="margin-bottom: 8px;">
             <strong>[07/2025]</strong> 💰 Awarded a General Research Fund (GRF) by the Research Grants Council of Hong Kong.
-        </li>
-        <li style="margin-bottom: 8px;">
-            <strong>[05/2025]</strong> 💼 Invited to serve as an Associate Editor for <em>Neurocomputing</em>.
-        </li>
-        <li style="margin-bottom: 8px;">
-            <strong>[05/2025]</strong> 🏆 Named a <em>Presidential Young Scholar</em>, supported by a <em>HK$4M</em> grant.
-        </li>
-        <li style="margin-bottom: 8px;">
-            <strong>[04/2025]</strong> 🏅 One paper selected as a <em>Top 50 Featured Paper</em> by the editors of <em>Nature Communications</em>.
-        </li>
-        <li style="margin-bottom: 8px;">
-            <strong>[03/2025]</strong> 💰 Awarded a Gifted Research Fund from Huawei.
-        </li>
-        <li style="margin-bottom: 8px;">
-            <strong>[02/2025]</strong> 💼 Invited to serve as a Guest Editor for <em>IEEE Transactions on Cognitive and Developmental Systems</em>.
-        </li>
-        <li style="margin-bottom: 8px;">
-            <strong>[01/2025]</strong> 📝 One paper published in <em>Nature Communications</em>. Congratulations to my excellent collaborators!
-        </li>
-        <li style="margin-bottom: 8px;">
-            <strong>[01/2025]</strong> 💼 Invited to serve as a Guest Editor for <em>Neuromorphic Computing and Engineering</em>.
         </li>
     </ul>
 </div>
