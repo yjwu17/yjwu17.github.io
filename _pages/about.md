@@ -26,25 +26,18 @@ His work has been published in leading journals and  conferences, including Nat
 
 
 
-### **Opening**
-<div style="font-size: 0.8em; color: red; text-align: justify; line-height: 1.6; margin-bottom: 20px;">
-<strong>(Updated July 2026)</strong> I am recruiting highly self-motivated PhD students (Fall 2027 intake), postdoctoral researchers, visiting students, and research assistants. We are particularly interested in candidates who are excited about <em>neuromorphic</em> computer vision,  brain-inspired foundation architectures, and computational neuroscience, especially synaptic plasticity and related memory models.
-<br><br>
-If you are interested in joining the lab, please email me your <strong>CV</strong>, <strong>transcripts</strong> (if available), and a brief statement addressing some of the  followings:
-<br>1. Why do you want to pursue a PhD?
-<br>2. Why are you interested in our lab, and which research direction excites you most?
-<br>3. Which of my papers have you read, and what limitations or possible extensions do you see?
-<br><br>
-All applications will be carefully reviewed. Due to the large number of inquiries, only shortlisted candidates will typically be contacted within two weeks.
-<br><br>
-<strong>Please note:</strong> this lab is best suited for applicants with a strong long-term interest in brain-inspired intelligence, neuromorphic computing, or computational neuroscience, rather than those seeking a general AI degree only.
-</div>
 
 ### **News**
 <div style="line-height: 1.6; max-height: 400px; overflow-y: auto; padding-right: 10px;">
     <ul style="list-style-type: none; padding-left: 0; margin: 0;">
         <li style="margin-bottom: 8px;">
-            <strong>[07/2026]</strong> 🏆 Received the 2027 IEEE Transactions on Neural Networks and Learning Systems Outstanding Paper Award. Congratulations to my excellent collaborators!
+           <strong>[11/2026]</strong> 📝 One paper accepted in principle by <em>PNAS<em>. Congratulations to my excellent collaborators!
+        </li>
+        <li style="margin-bottom: 8px;">
+           <strong>[11/2026]</strong> 📝 One paper accepted in principle by <em>Nature Communications<em>. Congratulations to my excellent collaborators!
+        </li>
+        <li style="margin-bottom: 8px;">
+            <strong>[07/2026]</strong> 🏆 Received the IEEE Transactions on Neural Networks and Learning Systems Outstanding Paper Award. Congratulations to my excellent collaborators!
         </li>
        <li style="margin-bottom: 8px;">
             <strong>[05/2026]</strong> 💰 Received the Young Innovative Researcher Award (HKD 500,000 research grant) from the University Grants Committee.
@@ -83,6 +76,21 @@ All applications will be carefully reviewed. Due to the large number of inquirie
             <strong>[07/2025]</strong> 💰 Awarded a General Research Fund (GRF) by the Research Grants Council of Hong Kong.
         </li>
     </ul>
+</div>
+
+
+### **Opening**
+<div style="font-size: 0.8em; color: red; text-align: justify; line-height: 1.6; margin-bottom: 20px;">
+<strong>(Updated Oct 2026)</strong> I am recruiting highly self-motivated PhD students (Fall 2027 intake), postdoctoral researchers, visiting students, and research assistants. We are particularly interested in candidates who are excited about <em>neuromorphic</em> computer vision,  brain-inspired foundation architectures, and computational neuroscience, especially synaptic plasticity and related memory models.
+<br><br>
+If you are interested in joining the lab, please email me your <strong>CV</strong>, <strong>transcripts</strong> (if available), and a brief statement addressing some of the  followings:
+<br>1. Why do you want to pursue a PhD?
+<br>2. Why are you interested in our lab, and which research direction excites you most?
+<br>3. Which of my papers have you read, and what limitations or possible extensions do you see?
+<br><br>
+All applications will be carefully reviewed. Due to the large number of inquiries, only shortlisted candidates will typically be contacted within two weeks.
+<br><br>
+<strong>Please note:</strong> this lab is best suited for applicants with a strong long-term interest in brain-inspired intelligence, neuromorphic computing, or computational neuroscience, rather than those seeking a general AI degree only.
 </div>
 
 ### **Selected Ten Publications** <span style="font-size: small;">(updated as of Jan 2025)</span>
