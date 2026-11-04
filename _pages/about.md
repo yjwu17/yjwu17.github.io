@@ -31,10 +31,10 @@ His work has been published in leading journals and  conferences, including Nat
 <div style="line-height: 1.6; max-height: 400px; overflow-y: auto; padding-right: 10px;">
     <ul style="list-style-type: none; padding-left: 0; margin: 0;">
         <li style="margin-bottom: 8px;">
-           <strong>[11/2026]</strong> 📝 One paper accepted in principle by <em>PNAS<em>. Congratulations to my excellent collaborators!
+            <strong>[11/2026]</strong> 📝 One paper accepted in principle by <em>PNAS</em>. Congratulations to my excellent collaborators!
         </li>
         <li style="margin-bottom: 8px;">
-           <strong>[11/2026]</strong> 📝 One paper accepted in principle by <em>Nature Communications<em>. Congratulations to my excellent collaborators!
+            <strong>[11/2026]</strong> 📝 One paper accepted in principle by <em>Nature Communications</em>. Congratulations to my excellent collaborators!
         </li>
         <li style="margin-bottom: 8px;">
             <strong>[07/2026]</strong> 🏆 Received the IEEE Transactions on Neural Networks and Learning Systems Outstanding Paper Award. Congratulations to my excellent collaborators!
