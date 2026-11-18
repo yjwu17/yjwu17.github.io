@@ -31,10 +31,13 @@ His work has been published in leading journals and  conferences, including Nat
 <div style="line-height: 1.6; max-height: 400px; overflow-y: auto; padding-right: 10px;">
     <ul style="list-style-type: none; padding-left: 0; margin: 0;">
         <li style="margin-bottom: 8px;">
-            <strong>[11/2026]</strong> 📝 One paper accepted in principle by <em>PNAS</em>. Congratulations to my excellent collaborators!
+            <strong>[11/2026]</strong> 📝 One paper accepted  by <em>PNAS</em>. Congratulations to my excellent collaborators!
         </li>
         <li style="margin-bottom: 8px;">
-            <strong>[11/2026]</strong> 📝 One paper accepted in principle by <em>Nature Communications</em>. Congratulations to my excellent collaborators!
+            <strong>[11/2026]</strong> 📝 One paper accepted  by <em>Nature Communications</em>. Congratulations to my excellent collaborators!
+        </li>
+        <li style="margin-bottom: 8px;">
+            <strong>[09/2025]</strong> 🌟 Featured in the <em>World’s Top 2% Most-Cited Scientists</em> list by Stanford University (2024-present).
         </li>
         <li style="margin-bottom: 8px;">
             <strong>[07/2026]</strong> 🏆 Received the IEEE Transactions on Neural Networks and Learning Systems Outstanding Paper Award. Congratulations to my excellent collaborators!
@@ -62,9 +65,6 @@ His work has been published in leading journals and  conferences, including Nat
         </li>
         <li style="margin-bottom: 8px;">
             <strong>[10/2025]</strong> 🌟 Selected as a <em>Rising Star in Brain–Computer Intelligence</em> in China by the World Association of Young Scientists (1 of 6 recipients nationwide).
-        </li>
-        <li style="margin-bottom: 8px;">
-            <strong>[09/2025]</strong> 🌟 Featured in the <em>World’s Top 2% Most-Cited Scientists</em> list by Stanford University (2024, 2025).
         </li>
         <li style="margin-bottom: 8px;">
             <strong>[09/2025]</strong> 📝 One paper published in <em>Nature Communications</em>. Congratulations to my excellent collaborators!
