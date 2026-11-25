@@ -37,10 +37,10 @@ His work has been published in leading journals and  conferences, including PNA
             <strong>[11/2026]</strong> 📝 One paper accepted  by <em>Nature Communications</em>. Congratulations to my excellent collaborators!
         </li>
         <li style="margin-bottom: 8px;">
-            <strong>[09/2025]</strong> 🌟 Featured in the <em>World’s Top 2% Most-Cited Scientists</em> list by Stanford University (2024-present).
+            <strong>[1/2026]</strong> 🏆 Received the IEEE Transactions on Neural Networks and Learning Systems Outstanding Paper Award. Congratulations to my excellent collaborators!
         </li>
         <li style="margin-bottom: 8px;">
-            <strong>[07/2026]</strong> 🏆 Received the IEEE Transactions on Neural Networks and Learning Systems Outstanding Paper Award. Congratulations to my excellent collaborators!
+            <strong>[09/2025]</strong> 🌟 Featured in the <em>World’s Top 2% Most-Cited Scientists</em> list by Stanford University (2024-present).
         </li>
        <li style="margin-bottom: 8px;">
             <strong>[05/2026]</strong> 💰 Received the Young Innovative Researcher Award (HKD 500,000 research grant) from the University Grants Committee.
